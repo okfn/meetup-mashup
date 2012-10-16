@@ -1,0 +1,3471 @@
+{
+    "meta": {
+        "count": 112, 
+        "updated": 1350407425000, 
+        "description": "API method for accessing events", 
+        "title": "Event", 
+        "url": "https://api.meetup.com/ew/events?key=303d3628040381e4242597878342d70&status=upcoming%2Cpast%2Cpending&radius=25.0&order=time&offset=0&format=json&page=200&container_id=14142", 
+        "total_count": 112, 
+        "lon": "", 
+        "next": "", 
+        "method": "Events", 
+        "link": "https://api.meetup.com/ew/events", 
+        "lat": "", 
+        "id": ""
+    }, 
+    "results": [
+        {
+            "status": "pending", 
+            "city": "La Paz", 
+            "updated": 1347998311000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup2", 
+            "created": 1347998311000, 
+            "country": "bo", 
+            "lon": -68.150002, 
+            "community": {
+                "urlname": "La-Paz-BO", 
+                "id": 445452, 
+                "name": "La Paz"
+            }, 
+            "helpers": [], 
+            "lat": -16.5, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/La-Paz-BO/795912/", 
+            "id": 795912
+        }, 
+        {
+            "status": "pending", 
+            "city": "Cambridge", 
+            "updated": 1328112823000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "CB4 1JA", 
+            "created": 1328112823000, 
+            "country": "gb", 
+            "lon": 0.13, 
+            "community": {
+                "urlname": "Cambridge", 
+                "id": 231572, 
+                "name": "Cambridge"
+            }, 
+            "state": "C3", 
+            "helpers": [], 
+            "lat": 52.209999, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Cambridge/593692/", 
+            "id": 593692
+        }, 
+        {
+            "status": "pending", 
+            "city": "Berlin", 
+            "updated": 1340648424000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup1", 
+            "venue_name": "Stitch Bar", 
+            "address1": "Sanderstra\u00dfe 17", 
+            "created": 1333099228000, 
+            "lon": 13.427591, 
+            "community": {
+                "urlname": "Berlin-DE", 
+                "id": 211142, 
+                "name": "Berlin"
+            }, 
+            "helpers": [
+                {
+                    "name": "Lisa", 
+                    "member_id": 9605128
+                }
+            ], 
+            "country": "de", 
+            "lat": 52.49271, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/658472/", 
+            "id": 658472
+        }, 
+        {
+            "status": "pending", 
+            "city": "Bangalore", 
+            "updated": 1348446408000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "It is important to discuss and identify the way forward with reference to the following:\r\nGood practices for data sharing /information sharing - standardization of methods\r\nii] Drivers for data sharing / and principles for data sharing -transparency and interoperability\r\niii] Data quality and Critical success factors - efficiency and effectiveness for implementation.", 
+            "zip": "meetup4", 
+            "created": 1348446292000, 
+            "country": "in", 
+            "lon": 77.559998, 
+            "community": {
+                "urlname": "Open-Data-Bangalore", 
+                "id": 404752, 
+                "name": "Open Data - Bangalore"
+            }, 
+            "helpers": [
+                {
+                    "name": "Iyyanki V Muralikrishna", 
+                    "member_id": 63153802
+                }
+            ], 
+            "lat": 12.97, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Open-Data-Bangalore/800302/", 
+            "id": 800302
+        }, 
+        {
+            "status": "pending", 
+            "city": "Z\u00fcrich", 
+            "updated": 1345456106000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup1", 
+            "created": 1345456106000, 
+            "country": "ch", 
+            "lon": 8.54, 
+            "community": {
+                "urlname": "Zurich-CH", 
+                "id": 358812, 
+                "name": "Z\u00fcrich"
+            }, 
+            "helpers": [], 
+            "lat": 47.380001, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Zurich-CH/769582/", 
+            "id": 769582
+        }, 
+        {
+            "status": "pending", 
+            "city": "Krak\u00f3w", 
+            "updated": 1349763465000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup3", 
+            "created": 1349763465000, 
+            "country": "pl", 
+            "lon": 19.959999, 
+            "community": {
+                "urlname": "Piotr-Ko?aczek", 
+                "id": 454592, 
+                "name": "Piotr Ko?aczek"
+            }, 
+            "helpers": [], 
+            "lat": 50.060001, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Piotr-Ko?aczek/812592/", 
+            "id": 812592
+        }, 
+        {
+            "status": "pending", 
+            "city": "Bangkok", 
+            "updated": 1348678836000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup1", 
+            "created": 1348678836000, 
+            "country": "th", 
+            "lon": 100.5, 
+            "community": {
+                "urlname": "Bangkok-TH", 
+                "id": 450542, 
+                "name": "Bangkok"
+            }, 
+            "helpers": [], 
+            "lat": 13.73, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Bangkok-TH/804422/", 
+            "id": 804422
+        }, 
+        {
+            "status": "pending", 
+            "city": "Brighton", 
+            "updated": 1348167128000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "BN1 3AH", 
+            "created": 1348167128000, 
+            "country": "gb", 
+            "lon": -0.15, 
+            "community": {
+                "urlname": "Brighton-GB", 
+                "id": 446642, 
+                "name": "Brighton"
+            }, 
+            "state": "P6", 
+            "helpers": [], 
+            "lat": 50.830002, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Brighton-GB/797772/", 
+            "id": 797772
+        }, 
+        {
+            "status": "pending", 
+            "city": "Lagos", 
+            "updated": 1320774451000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup1", 
+            "created": 1320774451000, 
+            "country": "ng", 
+            "lon": 3.47, 
+            "community": {
+                "urlname": "Lagos-NG", 
+                "id": 249942, 
+                "name": "Lagos"
+            }, 
+            "helpers": [], 
+            "lat": 6.45, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Lagos-NG/496972/", 
+            "id": 496972
+        }, 
+        {
+            "status": "pending", 
+            "city": "Brighton", 
+            "updated": 1348167138000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "BN1 3AH", 
+            "created": 1348167138000, 
+            "country": "gb", 
+            "lon": -0.15, 
+            "community": {
+                "urlname": "Brighton-GB", 
+                "id": 446642, 
+                "name": "Brighton"
+            }, 
+            "state": "P6", 
+            "helpers": [], 
+            "lat": 50.830002, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Brighton-GB/797782/", 
+            "id": 797782
+        }, 
+        {
+            "status": "pending", 
+            "city": "Barcelona", 
+            "updated": 1348515292000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup2", 
+            "created": 1348515292000, 
+            "country": "es", 
+            "lon": 2.17, 
+            "community": {
+                "urlname": "Barcelona-ES", 
+                "id": 272282, 
+                "name": "Barcelona"
+            }, 
+            "helpers": [], 
+            "lat": 41.400002, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Barcelona-ES/801372/", 
+            "id": 801372
+        }, 
+        {
+            "status": "pending", 
+            "city": "Buenos Aires", 
+            "updated": 1346359271000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup1", 
+            "created": 1346359271000, 
+            "country": "ar", 
+            "lon": -58.369999, 
+            "community": {
+                "urlname": "Buenos-Aires", 
+                "id": 358412, 
+                "name": "Buenos Aires"
+            }, 
+            "helpers": [], 
+            "lat": -34.610001, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Buenos-Aires/779872/", 
+            "id": 779872
+        }, 
+        {
+            "status": "pending", 
+            "city": "Krak\u00f3w", 
+            "updated": 1349768989000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup3", 
+            "created": 1349768989000, 
+            "country": "pl", 
+            "lon": 19.959999, 
+            "community": {
+                "urlname": "Krakow-PL", 
+                "id": 454622, 
+                "name": "Krak\u00f3w"
+            }, 
+            "helpers": [], 
+            "lat": 50.060001, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Krakow-PL/812642/", 
+            "id": 812642
+        }, 
+        {
+            "status": "pending", 
+            "city": "Almere- Stad", 
+            "updated": 1328903589000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "1315", 
+            "venue_name": "Hospitaaldreef 5", 
+            "address1": "5 Hospitaaldreef", 
+            "created": 1328903555000, 
+            "lon": 5.219451, 
+            "community": {
+                "urlname": "Almere", 
+                "id": 332702, 
+                "name": "Almere"
+            }, 
+            "state": "FL", 
+            "helpers": [
+                {
+                    "name": "Bert Betgen", 
+                    "member_id": 38095232
+                }
+            ], 
+            "country": "nl", 
+            "lat": 52.369755, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Almere/605542/", 
+            "id": 605542
+        }, 
+        {
+            "status": "pending", 
+            "city": "Munich", 
+            "updated": 1340222320000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "80339", 
+            "venue_name": "Wirtshaus am Bavariapark", 
+            "address1": "Am Bavariapark", 
+            "created": 1340222311000, 
+            "lon": 11.540881, 
+            "community": {
+                "urlname": "Munchen-DE", 
+                "id": 399362, 
+                "name": "M\u00fcnchen"
+            }, 
+            "state": "BY", 
+            "helpers": [
+                {
+                    "name": "Marcus Dapp", 
+                    "member_id": 51976832
+                }
+            ], 
+            "country": "de", 
+            "lat": 48.132137, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Munchen-DE/720232/", 
+            "id": 720232
+        }, 
+        {
+            "status": "pending", 
+            "city": "Thessalon\u00edki", 
+            "updated": 1328961236000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Program\r\n1. OKFn Short Intro\r\n2. OKFn Greece vision Intro\r\n3. Greece Open Data current status- Webscience MSc students research \r\n4. CKAN intro\r\n5. CKAN marathon", 
+            "zip": "meetup2", 
+            "created": 1328961236000, 
+            "country": "gr", 
+            "lon": 22.940001, 
+            "community": {
+                "urlname": "Thessaloniki-GR", 
+                "id": 330162, 
+                "name": "Thessalon\u00edki"
+            }, 
+            "lat": 40.639999, 
+            "helpers": [], 
+            "short_description": "1st short meet up OKFn Greece", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Thessaloniki-GR/606342/", 
+            "id": 606342
+        }, 
+        {
+            "status": "pending", 
+            "city": "Tokyo", 
+            "updated": 1340748939000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup1", 
+            "created": 1340748939000, 
+            "country": "jp", 
+            "lon": 139.770004, 
+            "community": {
+                "urlname": "Tokyo-JP", 
+                "id": 398492, 
+                "name": "Tokyo"
+            }, 
+            "helpers": [], 
+            "lat": 35.669998, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Tokyo-JP/725392/", 
+            "id": 725392
+        }, 
+        {
+            "status": "pending", 
+            "city": "Amsterdam", 
+            "updated": 1348070947000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup1", 
+            "created": 1348070947000, 
+            "country": "nl", 
+            "lon": 4.89, 
+            "community": {
+                "urlname": "Amsterdam-NL", 
+                "id": 446032, 
+                "name": "Amsterdam"
+            }, 
+            "helpers": [], 
+            "lat": 52.369999, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Amsterdam-NL/796832/", 
+            "id": 796832
+        }, 
+        {
+            "status": "pending", 
+            "city": "Chicago", 
+            "updated": 1332457473000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "60618", 
+            "venue_name": "Pumping Station: One", 
+            "address1": "3354 N Elston Ave", 
+            "created": 1332457443000, 
+            "lon": -87.702942, 
+            "community": {
+                "urlname": "Chicago-IL", 
+                "id": 236352, 
+                "name": "Chicago"
+            }, 
+            "state": "IL", 
+            "helpers": [
+                {
+                    "name": "TensorFlux", 
+                    "member_id": 9228732
+                }
+            ], 
+            "country": "us", 
+            "lat": 41.942459, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Chicago-IL/650402/", 
+            "id": 650402
+        }, 
+        {
+            "status": "pending", 
+            "city": "Usk", 
+            "updated": 1345120843000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "NP15 1AA", 
+            "created": 1345120843000, 
+            "country": "gb", 
+            "lon": -2.9, 
+            "community": {
+                "urlname": "Usk-GB", 
+                "id": 429302, 
+                "name": "Usk"
+            }, 
+            "state": "Y4", 
+            "helpers": [], 
+            "lat": 51.700001, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Usk-GB/767142/", 
+            "id": 767142
+        }, 
+        {
+            "status": "pending", 
+            "city": "Ni Dilli", 
+            "updated": 1348939309000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup120", 
+            "created": 1348939309000, 
+            "country": "in", 
+            "lon": 77.220001, 
+            "community": {
+                "urlname": "Open-Data-New-Delhi", 
+                "id": 404782, 
+                "name": "Open Data - New Delhi"
+            }, 
+            "helpers": [], 
+            "lat": 28.6, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Open-Data-New-Delhi/806582/", 
+            "id": 806582
+        }, 
+        {
+            "status": "pending", 
+            "city": "Taipei", 
+            "updated": 1348645322000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup1", 
+            "created": 1348645322000, 
+            "country": "tw", 
+            "lon": 121.449997, 
+            "community": {
+                "urlname": "Taipei-TW", 
+                "id": 231592, 
+                "name": "Taipei"
+            }, 
+            "helpers": [], 
+            "lat": 25.02, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Taipei-TW/804042/", 
+            "id": 804042
+        }, 
+        {
+            "status": "pending", 
+            "city": "Roma", 
+            "updated": 1337089360000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup1", 
+            "created": 1337089360000, 
+            "country": "it", 
+            "lon": 12.48, 
+            "community": {
+                "urlname": "Roma", 
+                "id": 330712, 
+                "name": "Roma"
+            }, 
+            "state": "RM", 
+            "helpers": [], 
+            "lat": 41.900002, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Roma/699852/", 
+            "id": 699852
+        }, 
+        {
+            "status": "pending", 
+            "city": "Bras\u00edlia", 
+            "updated": 1335904144000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup6", 
+            "created": 1335904144000, 
+            "country": "br", 
+            "lon": -47.91, 
+            "community": {
+                "urlname": "Brasilia-BR", 
+                "id": 385892, 
+                "name": "Bras\u00edlia"
+            }, 
+            "lat": -15.78, 
+            "helpers": [
+                {
+                    "name": "Everton Zanella Alvarenga", 
+                    "member_id": 29721142
+                }
+            ], 
+            "short_description": "Testing", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Brasilia-BR/692432/", 
+            "id": 692432
+        }, 
+        {
+            "status": "pending", 
+            "city": "Ulm", 
+            "updated": 1332152038000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup64", 
+            "created": 1332152038000, 
+            "country": "de", 
+            "lon": 9.97, 
+            "community": {
+                "urlname": "Ulm-DE", 
+                "id": 290802, 
+                "name": "Ulm"
+            }, 
+            "helpers": [], 
+            "lat": 48.400002, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Ulm-DE/647912/", 
+            "id": 647912
+        }, 
+        {
+            "status": "pending", 
+            "city": "Carquefou", 
+            "updated": 1337248046000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup510", 
+            "created": 1337248046000, 
+            "country": "fr", 
+            "lon": -1.5, 
+            "community": {
+                "urlname": "Ancenis", 
+                "id": 390192, 
+                "name": "Ancenis"
+            }, 
+            "helpers": [], 
+            "lat": 47.299999, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Ancenis/702442/", 
+            "id": 702442
+        }, 
+        {
+            "status": "pending", 
+            "city": "Copenhagen", 
+            "updated": 1347574278000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "This will be the second OKFN meetup in Copenhagen.", 
+            "zip": "meetup1", 
+            "created": 1347574251000, 
+            "country": "dk", 
+            "lon": 12.57, 
+            "community": {
+                "urlname": "Copenhagen-DK", 
+                "id": 236952, 
+                "name": "Copenhagen"
+            }, 
+            "helpers": [
+                {
+                    "name": "Kai", 
+                    "member_id": 5898096
+                }
+            ], 
+            "lat": 55.68, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Copenhagen-DK/791532/", 
+            "id": 791532
+        }, 
+        {
+            "status": "pending", 
+            "city": "Vienna", 
+            "updated": 1348651811000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup1", 
+            "created": 1348651811000, 
+            "country": "at", 
+            "lon": 16.370001, 
+            "community": {
+                "urlname": "Open-Knowledge-Forum-MeetUp-Austria", 
+                "id": 450352, 
+                "name": "Open Knowledge Forum MeetUp - Austria"
+            }, 
+            "helpers": [], 
+            "lat": 48.220001, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Open-Knowledge-Forum-MeetUp-Austria/804082/", 
+            "id": 804082
+        }, 
+        {
+            "status": "pending", 
+            "city": "Rio de Janeiro", 
+            "updated": 1337516932000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup2", 
+            "created": 1337516932000, 
+            "country": "br", 
+            "lon": -43.200001, 
+            "community": {
+                "urlname": "Rio-de-Janeiro-BR", 
+                "id": 384072, 
+                "name": "Rio de Janeiro"
+            }, 
+            "helpers": [], 
+            "lat": -22.91, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Rio-de-Janeiro-BR/705022/", 
+            "id": 705022
+        }, 
+        {
+            "status": "past", 
+            "city": "Chicago", 
+            "updated": 1321599330000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "60290", 
+            "venue_name": "The Candelite", 
+            "address1": "7452 North Western Avenue", 
+            "time": 1321578000000, 
+            "lon": -87.690559, 
+            "community": {
+                "urlname": "Chicago-IL", 
+                "id": 236352, 
+                "name": "Chicago"
+            }, 
+            "created": 1320334489000, 
+            "state": "IL", 
+            "helpers": [
+                {
+                    "name": "M E Collins", 
+                    "member_id": 29721322
+                }
+            ], 
+            "country": "us", 
+            "lat": 42.017502, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Chicago-IL/478152/", 
+            "id": 478152
+        }, 
+        {
+            "status": "past", 
+            "city": "Berlin", 
+            "updated": 1321714837000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "info:\nhttp://wiki.okfn.org/Community_Dashboard_Hackday_Nov_2011\n\ndoodle pool for dates:\nhttp://www.doodle.com/mvnvf4s6v7sabvy8", 
+            "zip": "10405", 
+            "venue_name": "OKF DE Office", 
+            "address1": "217 Prenzlauer Allee", 
+            "time": 1321700400000, 
+            "lon": 13.42094, 
+            "community": {
+                "urlname": "Berlin-DE", 
+                "id": 211142, 
+                "name": "Berlin"
+            }, 
+            "created": 1319473431000, 
+            "lat": 52.535229, 
+            "state": "Be", 
+            "helpers": [
+                {
+                    "name": "Daniel Dietrich", 
+                    "member_id": 12791739
+                }
+            ], 
+            "country": "de", 
+            "short_description": "OKFN Community Dashboard hackathon (November 2011)", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/443432/", 
+            "id": 443432
+        }, 
+        {
+            "status": "past", 
+            "city": "City of London", 
+            "updated": 1321718441000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "The event has three venues:\n* Online! Meet us in #okfn on irc.freenode.org\n* The Barbican, London - find us in the Foyer Cafe on Floor G (http://ow.ly/7vrpE) \n* Berlin's OKFN DE office (sign up here): http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/443432/\n\nSee the wiki page for full details!\nhttp://wiki.okfn.org/Community_Dashboard_Hackday_Nov_2011", 
+            "venue_name": "The Barbican Centre", 
+            "address1": "Silk Street", 
+            "time": 1321704000000, 
+            "lon": -0.092589, 
+            "community": {
+                "urlname": "London-GB", 
+                "id": 223772, 
+                "name": "London"
+            }, 
+            "created": 1320934820000, 
+            "lat": 51.5205, 
+            "state": "Gr", 
+            "helpers": [
+                {
+                    "name": "Kat Braybrooke", 
+                    "member_id": 15803871
+                }
+            ], 
+            "country": "gb", 
+            "short_description": "OKFN Community Dashboard Hackathon", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/London-GB/501692/", 
+            "id": 501692
+        }, 
+        {
+            "status": "past", 
+            "city": "Cape Town", 
+            "updated": 1321993855000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "This meetup is for those in Cape Town interested in open data and content. This is the first in what we hope will be a regular event. Come find out about other projects and activities and share your own. This is also an opportunity to meet with Rufus Pollock (co-founder of the Open Knowledge Foundation) who is in Cape Town for this meetup.\n\n* Refreshments including free wine (courtesy of Shuttleworth Foundation)\n* Hashtag: #OpenMeetupCT", 
+            "zip": "7925", 
+            "venue_name": "Open Innovation Studio", 
+            "address1": "27 Buitenkant St", 
+            "time": 1321979400000, 
+            "lon": 18.423599, 
+            "community": {
+                "urlname": "Cape-Town", 
+                "id": 262912, 
+                "name": "Cape Town"
+            }, 
+            "created": 1321475212000, 
+            "lat": -33.927849, 
+            "state": "WC", 
+            "helpers": [
+                {
+                    "name": "Rufus Pollock", 
+                    "member_id": 11433948
+                }
+            ], 
+            "country": "za", 
+            "short_description": "Open Knowledge Meetup - Open Data, Open Content, Open Source", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Cape-Town/518492/", 
+            "id": 518492
+        }, 
+        {
+            "status": "past", 
+            "city": "Taipei", 
+            "updated": 1322148850000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Cafe Philo\n\nAddress: No.3, Shaoxing N. St., Zhongzheng Dist., Taipei City", 
+            "zip": "meetup1", 
+            "created": 1320246015000, 
+            "country": "tw", 
+            "lon": 121.449997, 
+            "community": {
+                "urlname": "Taipei-TW", 
+                "id": 231592, 
+                "name": "Taipei"
+            }, 
+            "helpers": [
+                {
+                    "name": "TH Schee", 
+                    "member_id": 14491232
+                }
+            ], 
+            "time": 1322134200000, 
+            "lat": 25.02, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Taipei-TW/472862/", 
+            "id": 472862
+        }, 
+        {
+            "status": "past", 
+            "city": "Helsinki", 
+            "updated": 1322672565000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Open data, source, design, science, standards, licensing, maps, geodata, hardware, culture...!\n\nIn the model of our public #OpenDataLDN meetups in London, UK, the global Open Knowledge Foundation network invites all Finnish advocates of open knowledge to our first meetup to meet one another and create a road map for open data in the region.\n\nIn the broadest sense of the word, 'open knowledge' means everything from genes to geodata, from literature to source code. In an age of digital communication, we believe that nations gain considerable social benefits in the fields of administration, science, culture and finance by using this knowledge together.\n\nFinland has traditionally had a strong culture of open knowledge and sharing. This meetup aims to bring actors together from different areas of this field to share plans and aspirations. We also hope to identify new ideas for collaboration among these communities. \n\nParticipants are encouraged to prepare a short introduction on their history with open knowledge and to identify problems they wish the community to help them tackle.\n\nThis event is free of charge, but please RSVP here so we know you are coming.\n\nProgramme:\n\n15.00 Welcome speech \n15.15 Introduction of Open Knowledge Foundation, Kat Braybrooke \n15.30 Introductory round - aspirations and proposals \n16.30 Wrap-up - the need for further measures \n17.00 Informal brainstorming and cooperation\n\nFurther information: http://fi.okfn.org/\nChat about this Meetup on Twitter using the hashtags #opendataFI (English) and #avoindata (Finnish).", 
+            "zip": "00100", 
+            "venue_name": "Aalto University, School of Economics", 
+            "address1": "14 Runeberginkatu", 
+            "time": 1322658000000, 
+            "lon": 24.924246, 
+            "community": {
+                "urlname": "Helsinki", 
+                "id": 231532, 
+                "name": "Helsinki"
+            }, 
+            "created": 1320245802000, 
+            "lat": 60.171394, 
+            "helpers": [
+                {
+                    "name": "Antti Poikola", 
+                    "member_id": 9039541
+                }, 
+                {
+                    "name": "Jussi Nissil\u00e4", 
+                    "member_id": 30046632
+                }
+            ], 
+            "country": "fi", 
+            "short_description": "#OpenData Helsinki Meetup #1!", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Helsinki/472842/", 
+            "id": 472842
+        }, 
+        {
+            "status": "past", 
+            "city": "Berlin", 
+            "updated": 1322924493000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "2 day event Saturday 3rd & Sunday 4th\n\nhttp://www.opendataday.org\n\nblog post in german language by Daniel Dietrich\nhttp://okfn.de/2011/11/offene-geodaten-berlin-wir-fangen-dann-schon-mal-an%E2%80%A6/", 
+            "zip": "10999", 
+            "venue_name": "Co-Up, Adalbertstr. 7-8", 
+            "address1": "7 Adalbertstra\u00dfe", 
+            "time": 1322910000000, 
+            "lon": 13.419658, 
+            "community": {
+                "urlname": "Berlin-DE", 
+                "id": 211142, 
+                "name": "Berlin"
+            }, 
+            "created": 1321906764000, 
+            "lat": 52.500431, 
+            "state": "Be", 
+            "helpers": [
+                {
+                    "name": "Daniel Dietrich", 
+                    "member_id": 12791739
+                }, 
+                {
+                    "name": "elf Pavlik", 
+                    "member_id": 20105161
+                }
+            ], 
+            "country": "de", 
+            "short_description": "Open Data Hackathon", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/529762/", 
+            "id": 529762
+        }, 
+        {
+            "status": "past", 
+            "city": "London", 
+            "updated": 1322924493000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "For one day only we'll have a crack team of coders including representation from the CKAN and OpenSpending teams ready to break data out of its internet prisons and load it into theDataHub.org for you to use.\n\nIf you can't make it in person, join us via IRC: irc.freenode.net, #okfn (Webclient: http://bit.ly/irc-okfn)\n--------------------------------------------------------------------------\n\nDuring the Day, LONDON Challenges you to 3 challenges: \n\n1. The CKAN Challenge: \n\n# How can I join in? \n\n## Have a dataset in mind that you need to get hold of in machine-readable format? \n\nLet us know what you are looking for via the form below. Then, if you can, swing by on the day to keep us company with witty chat while we try and get it for you. We'll try and get as many datasets as possible released in one day.\n\nIf we don't get them all done, we'll organise a speed-geeking event in the near future to try and complete them. \n\n## Coder / Data Wrangler? \n\nWe need you! If you can screen scrape have data wrangling abilities, come along (either virtually or in person) to hang out, drink good coffee and wrangle. \n\n2. The OpenSpending Challenge: \n\nhttp://www.opendataday.org/wiki/OpenSpending\n\n3. The IATI Challenge: \n\nhttp://www.aidinfolabs.org/archives/773\n-----------------------------------------------------------------------\n\n# Registration\n\n1. Register via this meetup page...\n\n2. Let us know which datasets you would like to see: https://docs.google.com/spreadsheet/viewform?formkey=dG4yMzE5YVpDZ0hYNDE3VVk2RjNkREE6MQ\n\n--------------------------------------------------------------------------\n\nThe CKAN team will also be there to help anyone who is interested in building extensions to CKAN, the open source open data platform!\n\nThe pad for the event is here: http://ckan.okfnpad.org/opendataday?", 
+            "zip": "EC1A 4DD", 
+            "venue_name": "Foyer of the Barbican Centre", 
+            "country": "gb", 
+            "created": 1322494263000, 
+            "lon": -0.1, 
+            "community": {
+                "urlname": "London-GB", 
+                "id": 223772, 
+                "name": "London"
+            }, 
+            "lat": 51.52, 
+            "state": "17", 
+            "helpers": [
+                {
+                    "name": "Lucy Fedia Chambers", 
+                    "member_id": 28697992
+                }
+            ], 
+            "time": 1322910000000, 
+            "short_description": "Seize the Data Day (For Open Data Day)", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/London-GB/536442/", 
+            "id": 536442
+        }, 
+        {
+            "status": "past", 
+            "city": "Prague", 
+            "updated": 1323900197000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Let's meet each other in person and talk about our current or planned projects and discuss the czech open data platform which is being prepared by Open Society Fund Prague.\n\nFor more details about this meetup, see our post on the Open Knowledge Foundation blog here: http://ow.ly/7SVb7\n\nThe venue: Kulov\u00fd blesk, Sokolsk\u00e1 13, Praha 2.\n\nMap: goo.gl/Vn2aX\n\nTwitter Hashtag: #opendatacz", 
+            "zip": "meetup1", 
+            "venue_name": "Kulov\u00fd blesk", 
+            "country": "cz", 
+            "created": 1322473051000, 
+            "lon": 14.43, 
+            "community": {
+                "urlname": "Open-data-Prague", 
+                "id": 273022, 
+                "name": "Open data Prague"
+            }, 
+            "lat": 50.080002, 
+            "helpers": [
+                {
+                    "name": "Michaela Rybickova", 
+                    "member_id": 31645412
+                }
+            ], 
+            "time": 1323885600000, 
+            "short_description": "Prague Open Data Meetup #1", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Open-data-Prague/536272/", 
+            "id": 536272
+        }, 
+        {
+            "status": "past", 
+            "city": "Cambridge", 
+            "updated": 1323990282000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Join us for an informal evening of open data at the home of the Open Knowledge Foundation.\n\nCome meet the people who are opening up data in and around Cambridge and see what they are doing with it...\n\nOpen Data in Research, Open Government Data, Cultural Heritage, you name it... someone is probably working on it!\n\nKeen to do a lightning presentation (2-3 mins) to show a project you are working on? Drop Lucy Chambers an email: lucy.chambers [at] okfn.org\n\nOn the day, just rock up and knock! Lucy mob: 07909330731", 
+            "zip": "CB2 1HL", 
+            "venue_name": "The Panton Arms", 
+            "address1": "Panton St", 
+            "time": 1323975600000, 
+            "lon": 0.124865, 
+            "community": {
+                "urlname": "Cambridge", 
+                "id": 231572, 
+                "name": "Cambridge"
+            }, 
+            "created": 1323350553000, 
+            "state": "C3", 
+            "helpers": [
+                {
+                    "name": "Lucy Fedia Chambers", 
+                    "member_id": 28697992
+                }
+            ], 
+            "country": "gb", 
+            "lat": 52.196609, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Cambridge/547442/", 
+            "id": 547442
+        }, 
+        {
+            "status": "past", 
+            "city": "S\u00e3o Paulo", 
+            "updated": 1325122235000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Jenny Molloy, who coordinates the Open Science working group of Open Knowledge Foundation http://science.okfn.org/ , is coming to S\u00e3o Paulo. The incubating OKFn chapter in Brazil http://br.okfn.org is trying to gather Brazilians interested in open science, so if you'd like to hear more about that, you're welcome! Feel free to invite your friends!", 
+            "zip": "01243-000", 
+            "venue_name": "Pizzaria Br\u00e1z Higien\u00f3polis", 
+            "address1": "406 R. Sergipe", 
+            "time": 1325107800000, 
+            "lon": -46.6576, 
+            "community": {
+                "urlname": "Sao-Paulo", 
+                "id": 231522, 
+                "name": "Sao Paulo"
+            }, 
+            "created": 1324385894000, 
+            "lat": -23.547907, 
+            "state": "S\u00e3", 
+            "helpers": [
+                {
+                    "name": "Everton Zanella Alvarenga", 
+                    "member_id": 29721142
+                }
+            ], 
+            "country": "br", 
+            "short_description": "Open Science and pizza in S\u00e3o Paulo!", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Sao-Paulo/555732/", 
+            "id": 555732
+        }, 
+        {
+            "status": "past", 
+            "city": "Berlin", 
+            "updated": 1326229203000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "We want to meet up to discuss arising questions around Open Knowledge and to pitch new ideas and projects.", 
+            "zip": "meetup1", 
+            "venue_name": "Sanktoberolz, Ko Working Space 2nd Floor", 
+            "country": "de", 
+            "created": 1325348572000, 
+            "lon": 13.38, 
+            "community": {
+                "urlname": "Berlin-DE", 
+                "id": 211142, 
+                "name": "Berlin"
+            }, 
+            "lat": 52.52, 
+            "helpers": [
+                {
+                    "name": "Hauke Gierow", 
+                    "member_id": 31380772
+                }
+            ], 
+            "time": 1326214800000, 
+            "short_description": "Open Knowledge Meetup Berlin", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/561842/", 
+            "id": 561842
+        }, 
+        {
+            "status": "past", 
+            "city": "Taipei", 
+            "updated": 1326886302000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "We will host a community meetup after the Seminar on Open Data Strategy. More about the seminar: http://creativecommons.tw/blog/20120104", 
+            "zip": "meetup1", 
+            "venue_name": "NTUH International Convention Center", 
+            "country": "tw", 
+            "created": 1325740739000, 
+            "lon": 121.449997, 
+            "community": {
+                "urlname": "Taipei-TW", 
+                "id": 231592, 
+                "name": "Taipei"
+            }, 
+            "lat": 25.02, 
+            "helpers": [
+                {
+                    "name": "TH Schee", 
+                    "member_id": 14491232
+                }
+            ], 
+            "time": 1326871800000, 
+            "short_description": "Meetup after Seminar on Open Data Strategy", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Taipei-TW/565282/", 
+            "id": 565282
+        }, 
+        {
+            "status": "past", 
+            "city": "Cape Town", 
+            "updated": 1327523582000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "This meetup is for those in Cape Town interested in open data and content. This is the second time we will be meeting, and we hope to grow the community and make this a regular event. Come and find out about other projects and activities and share your own. \n\n* Please bring R30 to contribute to pizza and refreshments\n* Hashtag: #OpenMeetupCT", 
+            "venue_name": "The Open Innovation Studio, 27 Buitenkant Street (red doors opposite the police station, next to the District Six Museum)", 
+            "country": "za", 
+            "created": 1326450202000, 
+            "lon": 18.424055, 
+            "community": {
+                "urlname": "Cape-Town", 
+                "id": 262912, 
+                "name": "Cape Town"
+            }, 
+            "lat": -33.92487, 
+            "state": "WC", 
+            "helpers": [
+                {
+                    "name": "Bridget Nash", 
+                    "member_id": 35113302
+                }
+            ], 
+            "time": 1327509000000, 
+            "short_description": "Open Knowledge Meetup - Open Data, Open Content, Open Source", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Cape-Town/573122/", 
+            "id": 573122
+        }, 
+        {
+            "status": "past", 
+            "city": "London", 
+            "updated": 1327762972000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "On Saturday 28th January we're getting together for an Open Economics Hackday a one-day gathering to build and research 'cool stuff' related to a economics (usually of a digital variety) in under 24 hours.\n\nMeeting up in London and online, we'll be wrangling data and building apps all day. Whether you're a social scientist, student, coder or just someone with an interest there will be something for you to do: just be prepared to dive in and help build something.\n\n\nWhere: London (The Barbican) and Online (so you can join from anywhere in the world)\nWho: Anyone! Coder, data wrangler, economists, illustrator or writer?\n\nEtherpad: http://econ.okfnpad.org/hackathon-jan-2011\nContact us: http://openeconomics.net/contact/\n\nAs with all hackdays, exactly what gets work on gets decided on the day (you can add suggestions to the etherpad). However, one particular idea, which we could become a submission to Apps4Italy, is set out below at http://openeconomics.net/hackday-january-2011/.", 
+            "zip": "EC1Y", 
+            "venue_name": "The Barbican - www.barbican.org.uk, Meet us at the public space coffee area in the main hall on floor G", 
+            "address1": "Golden Ln", 
+            "time": 1327748400000, 
+            "lon": -0.09522, 
+            "community": {
+                "urlname": "London-GB", 
+                "id": 223772, 
+                "name": "London"
+            }, 
+            "created": 1327321128000, 
+            "lat": 51.523026, 
+            "helpers": [
+                {
+                    "name": "Velichka Dimitrova", 
+                    "member_id": 34270782
+                }
+            ], 
+            "country": "gb", 
+            "short_description": "Open Economics Hackday - January 28th", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/London-GB/583892/", 
+            "id": 583892
+        }, 
+        {
+            "status": "past", 
+            "city": "London", 
+            "updated": 1327964478000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Want to get involved with open knowledge communities in London? \n\n#OpenDataLDN is a bi-monthly, participatory series that gives Londoners working in a variety of fields (including academia, science, hardware, design, programming, media, government, development and culture) the opportunity to engage with a diverse network of locals interested in open access, free culture and content. Our first two meetups packed the house with great energy and new faces, so we're hoping to carry that positive momentum on to the new year for our third installment.\n\nThis month, we'll meet over drinks at the Centre for Creative Collaboration to hear Oliver Keyes talk about the future of the Wikimedia movement regarding remixed data, and you'll also have the opportunity to discuss and share your own initiatives. \n\nWe also have confirmed lightning talks for discussion:\n\n1) 'From here to there' - an open data transport project that will reveal how much it costs to get around, with Julian Tate from Open Data Manchester.\n2) 'National Archives hackday' - a call for participants, collections & ideas about how to engage with the public domain, with Jo Pugh from the UK National Archives.\n3) 'Landscape-Portrait' - a video-focused collaboration between artists and communities that combines qualitative and quantitative data to understand local demographics, with Kevin Carter from the University of Westminster.\n4) 'Open economics' - a call for contributions, cooperation and participation from a new working group focused on working with open economic data and social science, with Velichka Dimitrova from the University of Cambridge.\n5) 'Prism: A sculptural aggregator of live data in London' - a new installation is being planned at the V&A for London Design Festival 2012 that will use urban data to present an interactive reading of the city. The designer, Keiichi Matsuda, is looking for ideas regarding how to implement and work with open data.\n\nJoin us for a night of new friends and inspiring discussions! On Twitter? Talk to other participants now with the hashtag #OpenDataLDN.", 
+            "zip": "WC1X 9NG", 
+            "venue_name": "Centre for Creative Collaboration", 
+            "address1": "16 Acton St", 
+            "time": 1327950000000, 
+            "lon": -0.1165, 
+            "community": {
+                "urlname": "London-GB", 
+                "id": 223772, 
+                "name": "London"
+            }, 
+            "created": 1320246649000, 
+            "lat": 51.528782, 
+            "state": "17", 
+            "helpers": [
+                {
+                    "name": "Kat Braybrooke", 
+                    "member_id": 15803871
+                }
+            ], 
+            "country": "gb", 
+            "short_description": "#OpenDataLDN 3: Wikimedia and New Collaborations", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/London-GB/472892/", 
+            "id": 472892
+        }, 
+        {
+            "status": "past", 
+            "city": "Manila", 
+            "updated": 1328241675000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Open Project Organization XIII, \"Team Architect's Initiative\"", 
+            "zip": "meetup1", 
+            "venue_name": "Dusit Thani Hotel", 
+            "country": "ph", 
+            "created": 1327231407000, 
+            "lon": 120.970001, 
+            "community": {
+                "urlname": "Manila-PH", 
+                "id": 320572, 
+                "name": "Manila"
+            }, 
+            "helpers": [
+                {
+                    "name": "Franco S. Plantilla", 
+                    "member_id": 36009772
+                }
+            ], 
+            "time": 1328227200000, 
+            "lat": 14.62, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Manila-PH/583072/", 
+            "id": 583072
+        }, 
+        {
+            "status": "past", 
+            "city": "Leuven", 
+            "updated": 1328815925000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "More information on: http://wiki.okfn.org/Chapter/Belgium\n\nProgram:\n * Officially founding the NPO (vzw/asbl) (signing the by-laws)\n * Next events\n * Networking", 
+            "zip": "3000", 
+            "venue_name": "Flanders DC", 
+            "address1": "76 Diestsevest", 
+            "time": 1328801400000, 
+            "lon": 4.711782, 
+            "community": {
+                "urlname": "Belgium", 
+                "id": 313632, 
+                "name": "Belgium"
+            }, 
+            "created": 1326284954000, 
+            "lat": 50.88446, 
+            "state": "Fl", 
+            "helpers": [
+                {
+                    "name": "Pieter Colpaert", 
+                    "member_id": 13472540
+                }
+            ], 
+            "country": "be", 
+            "short_description": "General assembly n\u00b01", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Belgium/571152/", 
+            "id": 571152
+        }, 
+        {
+            "status": "past", 
+            "city": "???????????", 
+            "updated": 1328904223000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Program\r\n1. OKFn Short Intro\r\n2. OKFn Greece vision Intro\r\n3. Greece Open Data current status- Webscience MSc students research \r\n4. CKAN intro\r\n5. CKAN marathon", 
+            "zip": "54621", 
+            "venue_name": "Ag. Dimitriou, Mathematics Department, Aristotle University, Thessaloniki", 
+            "country": "gr", 
+            "created": 1328602292000, 
+            "lon": 22.957796, 
+            "community": {
+                "urlname": "Thessaloniki-GR", 
+                "id": 330162, 
+                "name": "Thessalon\u00edki"
+            }, 
+            "lat": 40.629745, 
+            "helpers": [
+                {
+                    "name": "Charalampos Bratsas", 
+                    "member_id": 14700691
+                }
+            ], 
+            "time": 1328889600000, 
+            "short_description": "1st short meet up OKFn Greece", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Thessaloniki-GR/600552/", 
+            "id": 600552
+        }, 
+        {
+            "status": "past", 
+            "city": "Praha", 
+            "updated": 1329429832000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Join the second open data meeetup in Prague to celebrate the lauch of several open data/open budget projects: Budov\u00e1n\u00ed st\u00e1tu (budovanistatu.cz),  N\u00e1s st\u00e1t (http://www.nasstat.cz/), Rozpocet obce (http://www.rozpocetobce.cz/). \n\nLet's meet each other in person, talk about our open data projects and share knowledge and experience!\n\nTwitter Hashtag: #opendatacz", 
+            "zip": "118 00", 
+            "venue_name": "U hrocha", 
+            "address1": "10 Thunovsk\u00e1", 
+            "time": 1329415200000, 
+            "lon": 14.404598, 
+            "community": {
+                "urlname": "Open-data-Prague", 
+                "id": 273022, 
+                "name": "Open data Prague"
+            }, 
+            "created": 1328809861000, 
+            "lat": 50.08902, 
+            "state": "Hl", 
+            "helpers": [
+                {
+                    "name": "Michaela Rybickova", 
+                    "member_id": 31645412
+                }
+            ], 
+            "country": "cz", 
+            "short_description": "Prague Open Data Meetup #2", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Open-data-Prague/603692/", 
+            "id": 603692
+        }, 
+        {
+            "status": "past", 
+            "city": "Tunis", 
+            "updated": 1330171462000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "On organise une premi\u00e8re r\u00e9union d'une communaut\u00e9 d\u00e9di\u00e9e \u00e0 l'Open Data qui devra aboutir \u00e0 terme \u00e0 la cr\u00e9ation d'une association.\nMerci de vous joindre \u00e0 nous dans cette nouvelle \"ru\u00e9e vers l'or des donn\u00e9es\"", 
+            "zip": "meetup1", 
+            "venue_name": "Taint center, \u00e0 cot\u00e9 de Carrefour", 
+            "country": "tn", 
+            "created": 1329081162000, 
+            "lon": 10.22, 
+            "community": {
+                "urlname": "Tunis", 
+                "id": 333552, 
+                "name": "Tunis"
+            }, 
+            "helpers": [
+                {
+                    "name": "Nader Yamoun", 
+                    "member_id": 18454671
+                }
+            ], 
+            "time": 1330156800000, 
+            "lat": 36.84, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Tunis/607572/", 
+            "id": 607572
+        }, 
+        {
+            "status": "past", 
+            "city": "Cambridge", 
+            "updated": 1330383810000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Join us in the Panton Arms for the second #OpenDataCBG meet-up. A friendly and informal evening for people in Cambridge to get together and talk about open data.\n\n## Give a lightning talk!\n\nLightning talks are informal 2-3 minute presentations on any topic. \n\nConfirmed so far:\n\nJurgi Cristobal - JIDC\nGreg Hadfield - Open Data Cities Conference\nPeter Murray-Rust - Open @ccess\nRufus Pollock - Recline Data Explorer\n\nIf you would like to give a lightning talk, please email laura.newman [@] okfn.org.\n\nWhatever you're interested in - government, science, cultural heritage, hardware, design, transport, or something else entirely! - come and meet like-minded people eager to discuss your ideas and share their own.\n\nOn Twitter? Talk to other participants using the #OpenDataCBG hastag. \nQuestions? Email laura.newman [@] okfn.org", 
+            "zip": "CB2", 
+            "venue_name": "Panton Arms", 
+            "address1": "43 Panton St", 
+            "time": 1330369200000, 
+            "lon": 0.124975, 
+            "community": {
+                "urlname": "Cambridge", 
+                "id": 231572, 
+                "name": "Cambridge"
+            }, 
+            "created": 1328119364000, 
+            "lat": 52.196392, 
+            "helpers": [
+                {
+                    "name": "Laura Newman", 
+                    "member_id": 32429482
+                }
+            ], 
+            "country": "gb", 
+            "short_description": "#OpenDataCBG Meet-Up!", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Cambridge/593762/", 
+            "id": 593762
+        }, 
+        {
+            "status": "past", 
+            "city": "Utrecht", 
+            "updated": 1330643057000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "The first meetup of the OKFN Chapter. See the first post of the mailinglist for more information: http://lists.okfn.org/pipermail/okfn-nl/2012-February/000000.html", 
+            "zip": "3511", 
+            "venue_name": "Oudegracht 183", 
+            "address1": "183 Oudegracht", 
+            "time": 1330628400000, 
+            "lon": 5.121002, 
+            "community": {
+                "urlname": "Utrecht-NL", 
+                "id": 328372, 
+                "name": "Utrecht"
+            }, 
+            "created": 1328261460000, 
+            "state": "UT", 
+            "helpers": [
+                {
+                    "name": "Sebastiaan ter Burg", 
+                    "member_id": 7271897
+                }
+            ], 
+            "country": "nl", 
+            "lat": 52.088833, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Utrecht-NL/594962/", 
+            "id": 594962
+        }, 
+        {
+            "status": "past", 
+            "city": "London", 
+            "updated": 1330786932000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "On Saturday 3rd March we're getting together for the Energy and Climate Hackday to data-wrangle and build apps around energy and climate data. All skills and interest groups are welcome: developer, data journalist, economist, climate scientist, environmentalist or an interested citizen.\n\n* When: Saturday 3rd March, 11am GMT (12pm CET/6am EST) to ~7pm GMT (8pm CET/3pm EST)\n* Where: Online (IRC, Skype) and also in person in London - ThoughtWorks Ltd., 9th Floor Berkshire House, 168-173 High Holborn, London, WC1V 7AA\n* Who: Anyone! All skills are necessary and welcomed: coding, writing, illustrating, climate modelling or having concerns about the environment?\n\nhttp://openeconomics.net/2012/02/14/energy-and-climate-hackday/\n\nLunch and drinks sponsored by AMEE and space provided by ThoughtWorks.", 
+            "zip": "WC1V 7AA", 
+            "venue_name": "168-173 High Holborn", 
+            "address1": "168 High Holborn", 
+            "time": 1330772400000, 
+            "lon": -0.125307, 
+            "community": {
+                "urlname": "London-GB", 
+                "id": 223772, 
+                "name": "London"
+            }, 
+            "created": 1329241925000, 
+            "lat": 51.515732, 
+            "state": "17", 
+            "helpers": [
+                {
+                    "name": "Velichka Dimitrova", 
+                    "member_id": 34270782
+                }
+            ], 
+            "country": "gb", 
+            "short_description": "Energy and Climate Hackday, March 3rd", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/London-GB/609192/", 
+            "id": 609192
+        }, 
+        {
+            "status": "past", 
+            "city": "Berlin", 
+            "updated": 1331672608000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "http://wiki.okfn.de/OKberlinmeeting/13032012\n\nWe are very happy to invite everyone to our next Open Berlin Meeting which will start at 6 p.m. at Oberholz Ko-Working Space (Rosenthaler Stra\u00dfe 72, 10119 Berlin).\n\nNannette Schliebner will present the Open Knowledge Index - a tool to measure openness in different countries.\n\nThe projects description:\n\nThe Open Knowledge Index has been designed to measure and track progress in opening up information, data and knowledge in a broader sense to the public. The Open Knowledge Index captures three dimensions of knowledge ? the ability to access knowledge (capability), the availability of knowledge and data provision (legislation) and the capacity to use the data and feed it back into the open data eco-system (open society).\n\nThe parliamentary research service of the German Bundestag provides high class research on relevat topics in the policy discourse. They are publicly funded, however only a small portion of them are accessible to the public at large. The Open Knowledge Foundation and Frag den Staat now provide an easy way to ask for studies that have been handed out to individuals but may not be published due to copyright claims. For more information see here and here.\n\nAfterwards everyone can have the floor to discuss current projects and ideas or just have a beer together.\n\nYou can attend the event on Lanyrd. If you want to tweet about it please use #openberlin\n\nIf somebody wants to do a bigger presentation just drop me an email at hauke.gierow@okfn.org See you Tuesday!\n\nHauke \n\nhttp://lanyrd.com/2012/openberlin/", 
+            "zip": "meetup1", 
+            "venue_name": "Sanktoberolz, Ko Working Space 2nd Floor", 
+            "country": "de", 
+            "created": 1331566158000, 
+            "lon": 13.38, 
+            "community": {
+                "urlname": "Berlin-DE", 
+                "id": 211142, 
+                "name": "Berlin"
+            }, 
+            "lat": 52.52, 
+            "helpers": [
+                {
+                    "name": "Hauke Gierow", 
+                    "member_id": 31380772
+                }
+            ], 
+            "time": 1331658000000, 
+            "short_description": "Open Knowledge Meetup Berlin", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/641292/", 
+            "id": 641292
+        }, 
+        {
+            "status": "past", 
+            "city": "Edinburgh", 
+            "updated": 1331679814000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "...Interested in Open Knowledge? \n...Want to meet others who are?\nLook no further! OKFN and DevCSI are arranging the first Meet-up in Scotland right here in Auld Reekie, with the Open Biblio project team taking the helm.\n\nOKFN Meet-ups are friendly and informal evenings for people to get together and talk about open data. London and Cambridge have had huge successes, with like-minded people getting together to share, discuss and argue all elements of openness, and now it's time for Edinburgh to join the party.\n\nWe already have guest speakers lined-up to do lightening talks (informal 2-3 minute presentations) on the Public Domain Review, the Open Data Handbook and CKAN, as well as Open Biblio; if you would like to talk about a particular area of Open Data or related subjects - whether a project you're involved with already or your aspirations for the future of openness - then get in touch! naomi.lillie [@] okfn.org.\n\n#OKFN \n#OpenData\n#OpenDataEDB", 
+            "zip": "EH10 4JW", 
+            "venue_name": "Ghillie Dhu", 
+            "address1": "2 Rutland Place", 
+            "time": 1331665200000, 
+            "lon": -3.20766, 
+            "community": {
+                "urlname": "Edinburgh-GB", 
+                "id": 219112, 
+                "name": "Edinburgh"
+            }, 
+            "created": 1329929325000, 
+            "lat": 55.949921, 
+            "state": "V5", 
+            "helpers": [
+                {
+                    "name": "Naomi Lillie", 
+                    "member_id": 39312722
+                }
+            ], 
+            "country": "gb", 
+            "short_description": "First OKFN Meet-Up in Scotland, here in Edinburgh!", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Edinburgh-GB/618812/", 
+            "id": 618812
+        }, 
+        {
+            "status": "past", 
+            "city": "Brussels", 
+            "updated": 1332590518000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "** More details soon **", 
+            "zip": "meetup1", 
+            "venue_name": "AC Portus - oude belgacomtoren", 
+            "country": "be", 
+            "created": 1329438973000, 
+            "lon": 4.33, 
+            "community": {
+                "urlname": "Belgium", 
+                "id": 313632, 
+                "name": "Belgium"
+            }, 
+            "lat": 50.830002, 
+            "helpers": [
+                {
+                    "name": "Pieter Colpaert", 
+                    "member_id": 13472540
+                }
+            ], 
+            "time": 1332576000000, 
+            "short_description": "Apps For Ghent 2", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Belgium/612242/", 
+            "id": 612242
+        }, 
+        {
+            "status": "past", 
+            "city": "London", 
+            "updated": 1332698627000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Welcome to the first Open Economics book club meeting - there are two pieces, which we would like to discuss while enjoying a latte and some cake on a Sunday afternoon. \n\n1) \"Coase?s Penguin, or, Linux and The Nature of the Firm\": http://www.yale.edu/yalelj/112/BenklerWEB.pdf\nand \n2) \"The Nature of the firm\": http://www.sonoma.edu/users/e/eyler/426/coase1.pdf\n\nMake some notes and add your name to the list if you are joining us from a remote location...\n\nhttp://econ.okfnpad.org/bookclub\n\nLocation: http://thecamplondon.com/ - The City Arts and Music Project, 70 - 74 City Rd, London, EC1Y 2BJ", 
+            "zip": "EC1Y 2BJ", 
+            "venue_name": "70 - 74 City Rd", 
+            "address1": "70-74 City Rd", 
+            "time": 1332684000000, 
+            "lon": -0.087712, 
+            "community": {
+                "urlname": "London-GB", 
+                "id": 223772, 
+                "name": "London"
+            }, 
+            "created": 1330041145000, 
+            "lat": 51.524796, 
+            "state": "17", 
+            "helpers": [
+                {
+                    "name": "Velichka Dimitrova", 
+                    "member_id": 34270782
+                }
+            ], 
+            "country": "gb", 
+            "short_description": "Open Economics Book Club - First London MeetUp", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/London-GB/621482/", 
+            "id": 621482
+        }, 
+        {
+            "status": "past", 
+            "city": "Z\u00fcrich", 
+            "updated": 1333105220000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "F\u00fcr besseren Verkehr dank offener Daten! \n\nDie Schweiz pulsiert im Rhythmus der Verkehrsadern: Strasse und Bahn, Velofahrer, Automobilisten und \u00d6V-Benutzer erzeugen nicht nur grosse Mengen von Daten, ihr Verhalten wird auch massgeblich durch diese gesteuert ? Verkehrsleitsystemen und Echtzeitfahrpl\u00e4nen sei Dank. An einem so genannten Mobility Hackday (http://make.opendata.ch) will make.opendata.ch Ende M\u00e4rz das Innovationspotential ausloten.\n\nMobilit\u00e4tsdaten sind eine gefragte Grundlage f\u00fcr technologische Innovationen wie politische Entscheidungsprozesse. Anders als in andern L\u00e4ndern sind sie in der Schweiz aber allzu oft nicht \u00f6ffentlich verf\u00fcgbar oder frei verwendbar ? f\u00fcr ein Land mit einer verkehrstechnischen Ingenieurstradition wie der Schweiz ein Kuriosum. Seit einiger Zeit beginnt sich die Situation jedoch zu \u00e4ndern: Softwareentwickler und Designer, Mobilit\u00e4tsplaner und andere Experten arbeiten mehr und mehr an offenen Systemen f\u00fcr besseren Verkehr.\n\nAm 30. und 31. M\u00e4rz treffen sich zeitgleich in Z\u00fcrich (http://yellow.local.ch/de/8003/Falcone) und in Genf (http://www.hesge.ch/head) im Rahmen der zweiten make.opendata.ch-Hackdays Gestalter, Denker und Macher, um zusammen der Frage nachzugehen, wie sich mit offenen Daten einfachere, freundlichere oder praktischere Nutzungsm\u00f6glichkeiten unserer Verkehrsinfrastruktur erschliessen lassen. In kurzen Referaten und offenen Workshops werden Mobile Apps, Visualisierungen, Webapplikationen und Mashups konzipiert und entwickelt, gemeinsam von Nutzern, Anbietern und Experten. Die Veranstaltung unter Mitwirkung der SBB und von http://internet-briefing.ch ist kostenlos.\n\nJetzt anmelden!\n\nDie Veranstaltung dauert von Freitag 9 Uhr bis Samstag 17 Uhr. Um fr\u00fchzeitige Anmeldung wird gebeten: http://make.opendata.ch/doku.php?id=resource:signup-2012-spring\n\nMake.opendata.ch ist eine Veranstaltung des Vereins http://www.opendata.ch, hervorgegangen aus einer Initiative von http://www.ch-open.ch und http://www.s-i.ch\n\nKontakt Deutschschweiz: andreas.amsler <\u00e4t> opendata.ch", 
+            "zip": "meetup1", 
+            "venue_name": "make.opendata.ch: Mobility Hackdays", 
+            "country": "ch", 
+            "created": 1331738040000, 
+            "lon": 8.54, 
+            "community": {
+                "urlname": "Zurich-CH", 
+                "id": 358812, 
+                "name": "Z\u00fcrich"
+            }, 
+            "lat": 47.380001, 
+            "helpers": [
+                {
+                    "name": "Andreas Amsler", 
+                    "member_id": 41510482
+                }
+            ], 
+            "time": 1333090800000, 
+            "short_description": "Let's meet in Switzerland", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Zurich-CH/643402/", 
+            "id": 643402
+        }, 
+        {
+            "status": "past", 
+            "city": "Thessalon\u00edki", 
+            "updated": 1333735298000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "OKFN Greece Meet-up program\r\n\r\n1. Kaitlyn Braybrooke (OKFN Local Chapter and Groups Coordinator), Open Knowledge Foundation Scope-Vision, OKFN: Local Groups and Chapters. (15-20 minutes)\r\n\r\n2. Dr. Charalampos Bratsas, (OKFN Greece Local Group Coordinator) Greek Open Data and the OKFN Greece challenges (15 minutes)\r\n\r\n3. Prof. I. Antoniou (Director of MSc Web Science, AUTH, Steering Committee OKFN Greece). The power of Openness. Open Data and Open Knowledge (15 minutes)\r\n\r\n4. Prof. George Metakides (President of DIGITAL ENLIGHTENMENT FORUM, Steering Committee OKFN Greece). Open Data Infrastructures for Innovation (15 minutes)\r\n\r\n5. Prof. Spirakis Paul G. (Director of Computer Technology Institute and Press \"Diophantus\", Steering Committee OKFN Greece). Open Data and Evolutionary Games (15 minutes)\r\n\r\n6. Dr. S\u00f6ren Auer (OKFN Advisor Board, LOD2 EU project Coordinator) Linked Data Challenges LOD2 Project Results (15 minutes)\r\n\r\n7. Marinos Papadopoulos (Legal Lead Creative Commons Hellas), Openness through the Creative Commons licenses (15 minute)\r\n\r\n8. Prof. Panagiotis Bamidis (meducator EU Project Coordinator, Steering Committee OKFN Greece) Open Educational Data: the case of meducator project. (15 minutes)\r\n\r\n9. Kostantinos Stampoulis (Greek Wikipedia Administrator), Towards Greek Wikimedia Foundation (15 minutes)\r\n\r\n10. Discussion 30 minutes\r\n\r\n11. Greek Wine Reception.\r\n\r\n\r\nGoogle map: http://maps.google.gr/maps/place?cid=15378852460087723486&q=%CE%9A%CF%84%CE%AF%CF%81%CE%B9%CE%BF+%CE%B5%CF%80%CE%B9%CF%84%CF%81%CE%BF%CF%80%CE%AE%CF%82+%CE%B5%CF%81%CE%B5%CF%85%CE%BD%CF%8E%CE%BD+%CE%91%CE%A0%CE%98&hl=el&ved=0CBsQ-gswAA&sa=X&ei=NHJrT7XlJsmh8gOluqGPDA&sig2=ksdzhrMr0BnpPUcmDoDMLA\r\n\r\nAmphitheatre II in Dissemination Centre (Building KEDEA)", 
+            "zip": "meetup2", 
+            "venue_name": "Aristotle University of Thessaloniki, Research Dissemination Center", 
+            "country": "gr", 
+            "created": 1330431163000, 
+            "lon": 22.940001, 
+            "community": {
+                "urlname": "Thessaloniki-GR", 
+                "id": 330162, 
+                "name": "Thessalon\u00edki"
+            }, 
+            "lat": 40.639999, 
+            "helpers": [
+                {
+                    "name": "Charalampos Bratsas", 
+                    "member_id": 14700691
+                }
+            ], 
+            "time": 1333720800000, 
+            "short_description": "OKFN Greece Meet-up", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Thessaloniki-GR/627532/", 
+            "id": 627532
+        }, 
+        {
+            "status": "past", 
+            "city": "S\u00e3o Paulo", 
+            "updated": 1334892888000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Na pr\u00f3xima quinta-feira, 19h de abril, \u00e0s 20h30, Rufus Pollock, um dos fudadores da Open Knowledge Foundation, e Helen Darbishire, uma das fundadoras da Access Info, debatem sobre dados abertos e acesso \u00e0 informa\u00e7\u00e3o na Matilha Cultural, em S\u00e3o Paulo.\r\n\r\nO evento: Com a san\u00e7\u00e3o da lei de acesso a informa\u00e7\u00e3o p\u00fablica no Brasil no final de 2011 ap\u00f3s longos anos de debate e press\u00e3o da sociedade civil, institui\u00e7\u00f5es p\u00fablicas de todas esferas passaram a correr atr\u00e1s dos longos anos de espera e est\u00e3o come\u00e7ando a publicar seus dados em formato aberto. Com a presen\u00e7a de um dos fundadores das organiza\u00e7\u00f5es sem fins lucrativos Open Knowledge Foundatione Acess Info, Rufus Pollock e Helen Darbishire, respectivamente, debateremos o que de melhor est\u00e1 ocorrendo sobre esses temas no mundo e como o Brasil poder\u00e1 avan\u00e7ar para um maior acesso \u00e0 informa\u00e7\u00f5es p\u00fablicas e porque esses dados precisam ser abertos. O debate ser\u00e1 mediado pelo coordenador de comunidades da Open Knowledge Foundation no Brasil, Everton Zanella Alvarenga, e pelo coordenador de projetos do Artigo 19 no Brasil, Arthur Massuda.\r\n\r\nMais informa\u00e7\u00f5es: http://br.okfn.org/2012/04/12/rufus-pollock-e-helen-darbishire-debatem-dados-abertos-e-acesso-a-informacao-na-matilha-cultural/\r\n\r\nVagas limitas: 70 participantes\r\nInscri\u00e7\u00f5es pelo link http://tinyurl.com/rufus-helen", 
+            "zip": "meetup1", 
+            "venue_name": "Matilha Cultural, Rua Rego Freitas, 542 \u0096 S\u00e3o Paulo", 
+            "country": "br", 
+            "created": 1334262736000, 
+            "lon": -46.630001, 
+            "community": {
+                "urlname": "Sao-Paulo-BR", 
+                "id": 379012, 
+                "name": "S\u00e3o Paulo"
+            }, 
+            "lat": -23.530001, 
+            "helpers": [
+                {
+                    "name": "Everton Zanella Alvarenga", 
+                    "member_id": 29721142
+                }
+            ], 
+            "time": 1334878200000, 
+            "short_description": "Rufus Pollock e Helen Darbishire debatem dados abertos e acesso \u00e0 informa\u00e7\u00e3o", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Sao-Paulo-BR/677652/", 
+            "id": 677652
+        }, 
+        {
+            "status": "past", 
+            "city": "Eindhoven", 
+            "updated": 1334921412000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "National Congress Open Data Eindhoven, April 20.\r\nIt is time to apply Open Data into practice! We know that there is data overflow, so now we have to convert it into usable information. By bringing together vision and practice, usage of datasets visualization becomes a serious business. How? Come to the National Congress Open Data and make a jump into the future of Open Data!\r\n\r\nWhat?\r\nWith the title \u0091Make it work\u0092 the Platform Open Data Eindhoven organizes the National Congress Open Data congress on Friday, April 20th. The conference focuses on the practical application of Open Data. Besides several great speakers, there will be a varied afternoon program with interactive parallel sessions. Case studies, visual and digital presentations will immediately provide you with instant applicable knowledge, inspiration and dialogue.\r\n\r\nWhere and when?\r\nIn Eindhoven, on 20th April 2012, in the city hall of Eindhoven on Stadhuisplein 10, about 10 minutes walk from the Central station.\r\n\r\nFor whom?\r\nFor everybody that is interested in Open Data, both providers and (potential) users. Main target groups: governments, business, knowledge hubs and citizens.\r\n\r\nKeynote-speakers\r\nAdam Greenfield: passionate American, keynote speaker of the day. This writer and visionary (\u0091Beyond the Smart City \u0093) on April 20th tells about the importance of Open Data in perspective of tomorrow\u0092s city;\r\nFrederik Ruys: Data Journalist, Designer of Above Netherlands;\r\nPaul Suijkerbuijk: Project Manager of Open Data Overheid.nl, ICTU;\r\nBrenno de Winter: Publicist, Journalist of the year 2011.", 
+            "zip": "meetup5", 
+            "venue_name": "Stadhuis Eindhoven", 
+            "country": "nl", 
+            "created": 1332168965000, 
+            "lon": 5.47, 
+            "community": {
+                "urlname": "Eindhoven-NL", 
+                "id": 362242, 
+                "name": "Eindhoven"
+            }, 
+            "lat": 51.439999, 
+            "helpers": [
+                {
+                    "name": "Rene Pare", 
+                    "member_id": 14492220
+                }
+            ], 
+            "time": 1334907000000, 
+            "short_description": "Congress: experience and learn Open Data practices and visions", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Eindhoven-NL/648032/", 
+            "id": 648032
+        }, 
+        {
+            "status": "past", 
+            "city": "Sao Paulo", 
+            "updated": 1335233097000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Um encontro informal para quem tem interesse no tema dos dados e do conhecimento aberto em Sao Paulo. Apareca para conhecer pessoas, ideias e projetos que tenham a ver com abertura e compartilhamento. Com Rufus Pollock, co-fundador da Open Knowledge Foundation, e outros colaboradores e colaboradoras da comunidade que esta se formando no Brasil.\r\n\r\n* Evento aberto e gratuito (mas nao deixe de confirmar presenca nesta pagina!)\r\n* Pizza e cerveja para todos! Cortesia da OKFN ;)\r\n* Hashtag: #okfnbr", 
+            "zip": "01153-000", 
+            "venue_name": "Casa da Cultura Digital", 
+            "address1": "459 R. Vitorino Carmilo", 
+            "time": 1335218400000, 
+            "lon": -46.651321, 
+            "community": {
+                "urlname": "Sao-Paulo-BR", 
+                "id": 379012, 
+                "name": "S\u00e3o Paulo"
+            }, 
+            "created": 1334490011000, 
+            "lat": -23.532907, 
+            "state": "S\u00e3", 
+            "helpers": [
+                {
+                    "name": "Daniela Silva", 
+                    "member_id": 6988417
+                }
+            ], 
+            "country": "br", 
+            "short_description": "Pizza, Cerveja & Dados Abertos - Open Knowledge Foundation Brasil", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Sao-Paulo-BR/679632/", 
+            "id": 679632
+        }, 
+        {
+            "status": "past", 
+            "city": "S\u00e3o Paulo", 
+            "updated": 1335646898000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Vamos dar in\u00edcio ao Papos com Dados no dia 28 de abril para discutir os maiores problemas de S\u00e3o Paulo.\r\n\r\n* Transporte\r\n* Seguran\u00e7a\r\n* Sa\u00fade\r\n\r\nSe voc\u00ea tem ideias para ajudar a melhorar problemas do transporte (metr\u00f4 lotado, congestionamentos absurdos, sistema de \u00f4nibus ineficiente, desrespeito aos pedestres e ciclitas), seguran\u00e7a (pontos de assalto, locais com m\u00e1 ilumina\u00e7\u00e3o e sequestros rel\u00e2mpago) e sa\u00fade (filas nos hospitais, mal atendimento, erro m\u00e9dico entre outros), venha participar da primeiro Papo com Dados  organizado pela Open Knowledge Foundation Brasil e pela Transpar\u00eancia Hacker!\r\n\r\nTraga sua listinha de problemas da cidade de S\u00e3o Paulo e forma de resolv\u00ea-las que voc\u00ea pensou. Vamos tentar usar o potencial dos dados dispon\u00edveis e tentar documentar dados que est\u00e3o faltando para criar aplicativos e visualiza\u00e7\u00f5es que tentem ajudar os cidad\u00e3os de S\u00e3o Paulo a ajudarem a resolver colaborativamente seus problemas.\r\n\r\nVeja mais: http://br.okfn.org/2012/04/21/papo-com-dados-os-maiores-problemas-de-sao-paulo/", 
+            "zip": "01153-000", 
+            "venue_name": "Casa de Cultura Digital", 
+            "address1": "459 R. Vitorino Carmilo", 
+            "time": 1335632400000, 
+            "lon": -46.651321, 
+            "community": {
+                "urlname": "Sao-Paulo-BR", 
+                "id": 379012, 
+                "name": "S\u00e3o Paulo"
+            }, 
+            "created": 1335111471000, 
+            "lat": -23.532907, 
+            "state": "S\u00e3", 
+            "helpers": [
+                {
+                    "name": "Everton Zanella Alvarenga", 
+                    "member_id": 29721142
+                }
+            ], 
+            "country": "br", 
+            "short_description": "Papo com Dados: os maiores problemas de S\u00e3o Paulo", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Sao-Paulo-BR/685362/", 
+            "id": 685362
+        }, 
+        {
+            "status": "past", 
+            "city": "Berlin", 
+            "updated": 1335989800000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "We want to meet up with you people at re:publica 2012 (Station Berlin).\r\n\r\nFrom Mai 2nd to 4th we will meet at 18:15 CEST in Wikimedias re:publica tent. This is a great chance to meet and catch up with the Open Knowledge People around.\r\n\r\nWe can exchange infos from great talks or speak about new and exciting projects. Also, it will be the chance to meet people in person who live on the internet far away most of the time.\r\n\r\nDon't have a Ticket? Join us one week later (Mai 8th) at our monthly meetup @WikimediaDE 's new office to talk about Wikidata and other stuff! (See: http://lanyrd.com/2012/open-knowledge-meetup-mai/ or here @ Meetup).\r\n\r\nExcited to meet you there!\r\n\r\nHauke", 
+            "zip": "meetup1", 
+            "venue_name": "Station Berlin, Wikimedia Tent", 
+            "country": "de", 
+            "created": 1335435662000, 
+            "lon": 13.38, 
+            "community": {
+                "urlname": "Berlin-DE", 
+                "id": 211142, 
+                "name": "Berlin"
+            }, 
+            "lat": 52.52, 
+            "helpers": [
+                {
+                    "name": "Hauke Gierow", 
+                    "member_id": 31380772
+                }
+            ], 
+            "time": 1335975300000, 
+            "short_description": "Meetup @ re:publica (#rp12)", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/687392/", 
+            "id": 687392
+        }, 
+        {
+            "status": "past", 
+            "city": "Berlin", 
+            "updated": 1336076272000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "We want to meet up with you people at re:publica 2012 (Station Berlin).\r\n\r\nFrom Mai 2nd to 4th we will meet at 18:15 CEST in Wikimedias re:publica tent. This is a great chance to meet and catch up with the Open Knowledge People around.\r\n\r\nWe can exchange infos from great talks or speak about new and exciting projects. Also, it will be the chance to meet people in person who live on the internet far away most of the time.\r\n\r\nDon't have a Ticket? Join us one week later (Mai 8th) at our monthly meetup @WikimediaDE 's new office to talk about Wikidata and other stuff! (See: http://lanyrd.com/2012/open-knowledge-meetup-mai/ or here @ Meetup).\r\n\r\nExcited to meet you there!\r\n\r\nHauke", 
+            "zip": "meetup1", 
+            "venue_name": "Station Berlin, Wikimedia Tent", 
+            "country": "de", 
+            "created": 1335435741000, 
+            "lon": 13.38, 
+            "community": {
+                "urlname": "Berlin-DE", 
+                "id": 211142, 
+                "name": "Berlin"
+            }, 
+            "lat": 52.52, 
+            "helpers": [
+                {
+                    "name": "Hauke Gierow", 
+                    "member_id": 31380772
+                }
+            ], 
+            "time": 1336061700000, 
+            "short_description": "Meetup @ re:publica on Mai 3rd", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/687402/", 
+            "id": 687402
+        }, 
+        {
+            "status": "past", 
+            "city": "Rio de Janeiro", 
+            "updated": 1336096990000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Um encontro informal para quem tem interesse no tema dos dados e do conhecimento aberto em Rio de Janeiro. Apareca para conhecer pessoas, ideias e projetos que tenham a ver com abertura e compartilhamento. Com Rufus Pollock, co-fundador da Open Knowledge Foundation, e outros colaboradores e colaboradoras da comunidade que esta se formando no Brasil.\r\n\r\n* Evento aberto e gratuito (mas nao deixe de confirmar presenca nesta pagina!) \r\n* Pizza e cerveja para todos!\r\n* Hashtag: #okfnbr", 
+            "zip": "20040-001", 
+            "venue_name": "IBase", 
+            "address1": "124 Av. Rio Branco", 
+            "time": 1336082400000, 
+            "lon": -43.177952, 
+            "community": {
+                "urlname": "Rio-de-Janeiro-BR", 
+                "id": 384072, 
+                "name": "Rio de Janeiro"
+            }, 
+            "created": 1335304498000, 
+            "lat": -22.904509, 
+            "state": "RJ", 
+            "helpers": [
+                {
+                    "name": "Rufus Pollock", 
+                    "member_id": 11433948
+                }
+            ], 
+            "country": "br", 
+            "short_description": "Pizza, Cerveja & Dados Abertos - Open Knowledge Foundation Brasil y IBase", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Rio-de-Janeiro-BR/686612/", 
+            "id": 686612
+        }, 
+        {
+            "status": "past", 
+            "city": "Berlin", 
+            "updated": 1336162758000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "We want to meet up with you people at re:publica 2012 (Station Berlin).\r\n\r\nFrom Mai 2nd to 4th we will meet at 18:15 CEST in Wikimedias re:publica tent. This is a great chance to meet and catch up with the Open Knowledge People around.\r\n\r\nWe can exchange infos from great talks or speak about new and exciting projects. Also, it will be the chance to meet people in person who live on the internet far away most of the time.\r\n\r\nDon't have a Ticket? Join us one week later (Mai 8th) at our monthly meetup @WikimediaDE 's new office to talk about Wikidata and other stuff! (See: http://lanyrd.com/2012/open-knowledge-meetup-mai/ or here @ Meetup).\r\n\r\nExcited to meet you there!\r\n\r\nHauke", 
+            "zip": "meetup1", 
+            "venue_name": "Station Berlin, Wikimedia Tent", 
+            "country": "de", 
+            "created": 1335435835000, 
+            "lon": 13.38, 
+            "community": {
+                "urlname": "Berlin-DE", 
+                "id": 211142, 
+                "name": "Berlin"
+            }, 
+            "lat": 52.52, 
+            "helpers": [
+                {
+                    "name": "Hauke Gierow", 
+                    "member_id": 31380772
+                }
+            ], 
+            "time": 1336148100000, 
+            "short_description": "Meetup @ re:publica on Mai 4th", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/687412/", 
+            "id": 687412
+        }, 
+        {
+            "status": "past", 
+            "city": "Berlin", 
+            "updated": 1336507235000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "We want to meet up for our monthly meeting at Wikimedias new office and discuss Wikidata and other interesting stuff! See our event on Lanyrd [http://lanyrd.com/2012/open-knowledge-meetup-mai/] and our Wiki [http://wiki.okfn.de/OKberlinmeeting/OKberlinmeeting/08052012]", 
+            "zip": "meetup1", 
+            "venue_name": "Wikimedia DE Office", 
+            "country": "de", 
+            "created": 1335433821000, 
+            "lon": 13.38, 
+            "community": {
+                "urlname": "Berlin-DE", 
+                "id": 211142, 
+                "name": "Berlin"
+            }, 
+            "lat": 52.52, 
+            "helpers": [
+                {
+                    "name": "Hauke Gierow", 
+                    "member_id": 31380772
+                }
+            ], 
+            "time": 1336492800000, 
+            "short_description": "Open Knowledge Meetup Berlin @WikimediaDE", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/687372/", 
+            "id": 687372
+        }, 
+        {
+            "status": "past", 
+            "city": "Rivne", 
+            "updated": 1336766675000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup23", 
+            "created": 1329912043000, 
+            "country": "ua", 
+            "lon": 26.24, 
+            "community": {
+                "urlname": "Rivne", 
+                "id": 340302, 
+                "name": "Rivne"
+            }, 
+            "helpers": [
+                {
+                    "name": "Anton Shynkaruk", 
+                    "member_id": 18358871
+                }
+            ], 
+            "time": 1336752000000, 
+            "lat": 50.630001, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Rivne/618322/", 
+            "id": 618322
+        }, 
+        {
+            "status": "past", 
+            "city": "Ulm", 
+            "updated": 1336863658000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup64", 
+            "venue_name": "OpenCityCamp Ulm 2012", 
+            "country": "de", 
+            "created": 1332152049000, 
+            "lon": 9.97, 
+            "community": {
+                "urlname": "Ulm-DE", 
+                "id": 290802, 
+                "name": "Ulm"
+            }, 
+            "lat": 48.400002, 
+            "helpers": [
+                {
+                    "name": "Michael M\u00fcller", 
+                    "member_id": 41961032
+                }
+            ], 
+            "time": 1336849200000, 
+            "short_description": "OpenCityCamp Ulm 2012", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Ulm-DE/647922/", 
+            "id": 647922
+        }, 
+        {
+            "status": "past", 
+            "city": "Cambridge", 
+            "updated": 1337033011000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Join us again in the Panton Arms for another#OpenData meet-up: a friendly and informal evening for people in Cambridge to get together and talk about open data.\r\n\r\n## Give a lightning talk!\r\n\r\nLightning talks are informal 2-3 minute presentations on any topic.\r\n\r\n## Confirmed so far:\r\n\r\n* Tom Oinn - Overtone\r\n* Velichka Dimitrova - YourTopia \r\n* Sarah Burge - Science and Wikipedia\r\n* Kat Braybrooke - OKFestival 2012\r\n\r\nTo give a talk, just email laura.newman [@] okfn.org.\r\n\r\nWhatever you're interested in - government, science, cultural heritage, hardware, design, transport, or something else entirely! - come and meet like-minded people eager to discuss your ideas and share their own.\r\n\r\nOn Twitter? Talk to other participants using the #OpenDataCBG hastag. \r\nQuestions? Email laura.newman [@] okfn.org\r\n\r\nHope to see you there!", 
+            "venue_name": "Panton Arms, 43 Panton Street", 
+            "country": "gb", 
+            "created": 1336056883000, 
+            "lon": 0.121817, 
+            "community": {
+                "urlname": "Cambridge", 
+                "id": 231572, 
+                "name": "Cambridge"
+            }, 
+            "lat": 52.205338, 
+            "state": "En", 
+            "helpers": [
+                {
+                    "name": "Laura Newman", 
+                    "member_id": 32429482
+                }
+            ], 
+            "time": 1337018400000, 
+            "short_description": "Join us for OpenDataCambridge", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Cambridge/694542/", 
+            "id": 694542
+        }, 
+        {
+            "status": "past", 
+            "city": "Edinburgh", 
+            "updated": 1337205680000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "OKFN Meet-ups are friendly and informal evenings for people to get together and talk about open data. Join us to share ideas, compare projects and develop plans.\r\n\r\nTalks planned so far include the topics of crowdsourcing and\r\neducation, the challenge of linking data together, and DM2E.\r\n\r\nIf you would like to give a lightning talk (informal 2-3 minute presentations) contact naomi.lillie [@] okfn.org.\r\n\r\nhttp://openbiblio.net/2012/05/08/opendataedb-2-16th-june/\r\n\r\n#OpenDataEDB", 
+            "zip": "EH10 4JW", 
+            "venue_name": "The Wash Bar", 
+            "address1": "11-13 North Bank Street", 
+            "time": 1337191200000, 
+            "lon": -3.193888, 
+            "community": {
+                "urlname": "Edinburgh-GB", 
+                "id": 219112, 
+                "name": "Edinburgh"
+            }, 
+            "created": 1335349897000, 
+            "lat": 55.949921, 
+            "state": "V5", 
+            "helpers": [
+                {
+                    "name": "Naomi Lillie", 
+                    "member_id": 39312722
+                }
+            ], 
+            "country": "gb", 
+            "short_description": "OKFN Edinburgh meet-up #2", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Edinburgh-GB/686812/", 
+            "id": 686812
+        }, 
+        {
+            "status": "past", 
+            "city": "Manchester", 
+            "updated": 1337292172000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Join Open Knowledge Foundation co-founder Rufus Pollock and other data wranglers for an informal evening of good conversation and hacking over drinks after Future Everything.\r\n\r\nWe'll show you some of our coolest data tools (including http://CKAN.org, http://Yourtopia.net and http://OpenSpending.org) and you can show us what local projects you've been working on. \r\n\r\nYou'll also meet the Open Design Working Group's co-founders (http://design.okfn.org), who will be creating their first Open Design Definition at Saturday's FAB* Summit (http://ow.ly/aQLyw).  \r\n\r\nWe look forward to learning more from Manchester's open data communities together. Have a project you want us to look at ahead of time? Leave it in the comments!\r\n\r\nPS. Thanks to @OpenDataMCR's Julian Tate and Steven Flower for venue help! Details here: http://www.britonsprotection.co.uk/", 
+            "zip": "M2 5AS", 
+            "venue_name": "Briton's Protection", 
+            "address1": "50 Great Bridgewater Street", 
+            "time": 1337277600000, 
+            "lon": -2.247145, 
+            "community": {
+                "urlname": "Manchester-GB", 
+                "id": 261852, 
+                "name": "Manchester"
+            }, 
+            "created": 1336666686000, 
+            "lat": 53.475056, 
+            "state": "18", 
+            "helpers": [
+                {
+                    "name": "Kat Braybrooke", 
+                    "member_id": 15803871
+                }
+            ], 
+            "country": "gb", 
+            "short_description": "Open Data Drinks #1", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Manchester-GB/698022/", 
+            "id": 698022
+        }, 
+        {
+            "status": "past", 
+            "city": "Rome", 
+            "updated": 1337455849000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Ci vediamo al cafe del Chiostro del Bramante (http://chiostrodelbramante.it/) per parlare di open data ed conoscenza aperta, e per parlare di alcuni progetti attivi al momento.\r\n\r\nBrevi presentazioni di ci\u00f2 che sta succedendo (2 o 3 minuti) sono benvenute! Condividi questo evento,  incontra altre persone interessate al mondo open data e scopri attivit\u00e0 interessanti nella tua zona!\r\n\r\nVelichka Dimitrova, Project Manager of Open Economics, presenter\u00e0 i progetti su cui \u00e8 attivo al momento il gruppo di lavoro per raccogliere suggerimenti e idee.", 
+            "zip": "00186", 
+            "venue_name": "Arco della Pace, 5", 
+            "address1": "5 Arco della Pace", 
+            "time": 1337441400000, 
+            "lon": 12.471283, 
+            "community": {
+                "urlname": "Roma", 
+                "id": 330712, 
+                "name": "Roma"
+            }, 
+            "created": 1337089509000, 
+            "lat": 41.90012, 
+            "state": "La", 
+            "helpers": [
+                {
+                    "name": "Velichka Dimitrova", 
+                    "member_id": 34270782
+                }
+            ], 
+            "country": "it", 
+            "short_description": "OpenData MeetUp in Roma", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Roma/699862/", 
+            "id": 699862
+        }, 
+        {
+            "status": "past", 
+            "city": "Bobo Dioulasso", 
+            "updated": 1338073455000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup2", 
+            "created": 1331986443000, 
+            "country": "bf", 
+            "lon": -4.29, 
+            "community": {
+                "urlname": "BOBO-DIOULASSO", 
+                "id": 361282, 
+                "name": "BOBO-DIOULASSO"
+            }, 
+            "helpers": [
+                {
+                    "name": "Konou", 
+                    "member_id": 41542712
+                }
+            ], 
+            "time": 1338058800000, 
+            "lat": 11.18, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/BOBO-DIOULASSO/646432/", 
+            "id": 646432
+        }, 
+        {
+            "status": "past", 
+            "city": "Prague", 
+            "updated": 1338494692000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "An informal meetup following \"Data tools for NGOs workshop at HUB Prague\".\r\n\r\nCome to share your thoughts & experience with workshop, discuss your #opendata related plans and meet the community in \"real\" life! Especially welcome are those, who would like to join us in establishing a Czech chapter of Open Knowledge Foundation (http://cz.okfn.org/)\r\n\r\nMore about the workshop:\r\n\r\nTakes place at Hub Prague (Drtinova 10, Praha 5) on 31st of May from 13:15 to 17:30. Free entry.\r\nTopics: Crowdsourcing, data driven journalism, google tools and many more. For more info and registration please contact Miroslav Hyrman: miroslav.hyrman@osf.cz", 
+            "zip": "meetup1", 
+            "venue_name": "Jiho?esk\u00fd dv?r", 
+            "address1": "\u008atef\u00e1nikova 216/21", 
+            "time": 1338480000000, 
+            "lon": 14.403678, 
+            "community": {
+                "urlname": "Open-data-Prague", 
+                "id": 273022, 
+                "name": "Open data Prague"
+            }, 
+            "created": 1337786962000, 
+            "lat": 50.074001, 
+            "helpers": [
+                {
+                    "name": "Michaela Rybickova", 
+                    "member_id": 31645412
+                }
+            ], 
+            "country": "cz", 
+            "short_description": "Data tools workshop for NGOs - Afterparty", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Open-data-Prague/706772/", 
+            "id": 706772
+        }, 
+        {
+            "status": "past", 
+            "city": "Berlin", 
+            "updated": 1338894021000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Hack4Europe! is a series of hack days organised by the Europeana Foundation and its partners and provides an exciting environment to explore the potential of open cultural data for social and economic growth in Europe.\r\n\r\nMore information: http://okfn.de/2012/04/hack4europe-2012-berlin/", 
+            "zip": "10785", 
+            "venue_name": "Staatsbibliothek zu Berlin - Preu\u00dfischer Kulturbesitz", 
+            "address1": "33 Potsdamer Stra\u00dfe", 
+            "time": 1338879600000, 
+            "lon": 13.370543, 
+            "community": {
+                "urlname": "Berlin-DE", 
+                "id": 211142, 
+                "name": "Berlin"
+            }, 
+            "created": 1335462875000, 
+            "lat": 52.507721, 
+            "state": "Be", 
+            "helpers": [
+                {
+                    "name": "Hauke Gierow", 
+                    "member_id": 31380772
+                }
+            ], 
+            "country": "de", 
+            "short_description": "Hack 4 Europe 2012 in Berlin", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/687592/", 
+            "id": 687592
+        }, 
+        {
+            "status": "past", 
+            "city": "London", 
+            "updated": 1339538650000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "#BiblioHack http://bit.ly/KQdy62 is coming to London on June 13th and 14th, and we invite you as hackers, coders, data enthusiasts and interested members of the public to come and hang out with its participants over drinks!\r\n\r\nThis hackathon, open to anyone interested in working with and learning about metadata, aims to bring together software developers, project managers, librarians and experts in a variety of fields related to open bibliographic data. \r\n\r\nAt #BiblioHack, we'll be building and working with tools that enable people and institutions to get the most of bibliographic data, and this meetup is a chance for #BiblioHack participants and interested friends to share projects and meet one another in an informal setting before the hacking starts.\r\n\r\nWith a core crew of folk involved in the Open Knowledge Foundation\u0092s Working Group on Open Data in Cultural Heritage and Open GLAM, the Open Biblio project, the DM2E project and DevCSI, we look forward to an interesting night of #BiblioHack discussion, drinks and new ideas!\r\n\r\nVenue: http://www.creativecollaboration.org.uk/where.php\r\n\r\n#BiblioHack", 
+            "zip": "WC1X 9NG", 
+            "venue_name": "C4CC", 
+            "address1": "16 Acton St", 
+            "time": 1339524000000, 
+            "lon": -0.1165, 
+            "community": {
+                "urlname": "London-GB", 
+                "id": 223772, 
+                "name": "London"
+            }, 
+            "created": 1335396913000, 
+            "lat": 51.528782, 
+            "state": "17", 
+            "helpers": [
+                {
+                    "name": "Naomi Lillie", 
+                    "member_id": 39312722
+                }
+            ], 
+            "country": "gb", 
+            "short_description": "#BiblioHack Drinks and Data", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/London-GB/687252/", 
+            "id": 687252
+        }, 
+        {
+            "status": "past", 
+            "city": "Tokyo", 
+            "updated": 1340712013000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Will discuss the short-term agenda to establish OKFN-Japan. Talks will be in Japanese, but most of attendees can understand English (I guess).", 
+            "zip": "meetup1", 
+            "venue_name": "IUJ GLOCOM", 
+            "address1": "???-?????", 
+            "time": 1340697600000, 
+            "lon": 139.727905, 
+            "community": {
+                "urlname": "Tokyo-JP", 
+                "id": 398492, 
+                "name": "Tokyo"
+            }, 
+            "created": 1339736095000, 
+            "lat": 35.65876, 
+            "helpers": [
+                {
+                    "name": "Masayuki Hatta", 
+                    "member_id": 51356272
+                }
+            ], 
+            "country": "jp", 
+            "short_description": "Preliminary meeting for establishing OKFN-Japan Chapter", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Tokyo-JP/718352/", 
+            "id": 718352
+        }, 
+        {
+            "status": "past", 
+            "city": "Z\u00fcrich", 
+            "updated": 1340830913000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "On the eve of the OpenData.ch 2012 conference (http://opendata.ch/2012/) we're holding an informal meetup to talk about open data and open knowledge.\r\n\r\nInterested in open data and open knowledge communities in Zurich and Switzerland then come along!\r\n\r\nThe Co-Founder and Director of the Open Knowledge Foundation, Rufus Pollock, will be in town and attending this meetup.", 
+            "zip": "meetup1", 
+            "venue_name": "XTRA ", 
+            "address1": "Limmatstrasse 118", 
+            "time": 1340816400000, 
+            "lon": 8.53259, 
+            "community": {
+                "urlname": "Zurich-CH", 
+                "id": 358812, 
+                "name": "Z\u00fcrich"
+            }, 
+            "created": 1340024700000, 
+            "lat": 47.384052, 
+            "helpers": [
+                {
+                    "name": "Hannes Gassert", 
+                    "member_id": 14821511
+                }
+            ], 
+            "country": "ch", 
+            "short_description": "Open Data Meetup in Z\u00fcrich", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Zurich-CH/719282/", 
+            "id": 719282
+        }, 
+        {
+            "status": "past", 
+            "city": "Lakhnau", 
+            "updated": 1341077454000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "http://in.okfn.org/", 
+            "zip": "meetup12", 
+            "venue_name": "Phoenix Mall", 
+            "address1": "Phoenix Mall,, Alambagh", 
+            "time": 1341063000000, 
+            "lon": 80.884819, 
+            "community": {
+                "urlname": "Lakhnau-IN", 
+                "id": 398112, 
+                "name": "Lakhnau"
+            }, 
+            "created": 1339571732000, 
+            "helpers": [
+                {
+                    "name": "Sridhar Gutam", 
+                    "member_id": 31951532
+                }
+            ], 
+            "country": "in", 
+            "lat": 26.794136, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Lakhnau-IN/717572/", 
+            "id": 717572
+        }, 
+        {
+            "status": "past", 
+            "city": "Blackpool", 
+            "updated": 1341268344000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Informal first meetup to discuss open data generally and especially in regard to anything affecting Blackpool.\r\nIdeas, suggestions for particular discussions welcome.\r\nEmail me at info@blackpoolview.co.uk\r\nLooking forward to seeing you there.", 
+            "zip": "FY1 1NE", 
+            "venue_name": "Ruskin Hotel, Albert Road", 
+            "address1": "Ruskin Hotel, 55-61 Albert Rd, Blackpool, FY1 4PW", 
+            "time": 1341253800000, 
+            "lon": -3.049363, 
+            "community": {
+                "urlname": "Blackpool-GB", 
+                "id": 396902, 
+                "name": "Blackpool"
+            }, 
+            "created": 1339005516000, 
+            "state": "H2", 
+            "helpers": [
+                {
+                    "name": "Michael Brightman", 
+                    "member_id": 50368042
+                }
+            ], 
+            "country": "gb", 
+            "lat": 53.815708, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Blackpool-GB/715042/", 
+            "id": 715042
+        }, 
+        {
+            "status": "past", 
+            "city": "Madrid", 
+            "updated": 1341522046000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Beers and OPEN data. \r\n\u00bfHay q crear un OKFN Spain?\r\n\u00bfHay muchos o pocos datos p\u00fablicos?\r\n\u00bfSe puede vivir de los datos abiertos?\r\n\u00bfQue hacemos con las AAPP q no publican?\r\n\u00bfCual es la mejor app que usa opendata?\r\n\r\n Con unas cerves seguro q decidimos. :-D", 
+            "zip": "meetup1", 
+            "venue_name": "irish rover", 
+            "address1": "Av del Brasil, 7", 
+            "time": 1341507600000, 
+            "lon": -3.693945, 
+            "community": {
+                "urlname": "Madrid-ES", 
+                "id": 404812, 
+                "name": "Madrid"
+            }, 
+            "created": 1340980588000, 
+            "lat": 40.454842, 
+            "helpers": [
+                {
+                    "name": "alberto abella", 
+                    "member_id": 52897642
+                }
+            ], 
+            "country": "es", 
+            "short_description": "OKFN Spain, meetup", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Madrid-ES/727812/", 
+            "id": 727812
+        }, 
+        {
+            "status": "past", 
+            "city": "Bangalore", 
+            "updated": 1343752467000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "For anyone interested in Open Data in Bangalore.\r\n\r\nWhether you are interested in Open Government Data, Open Science, Data Driven Journalism, Open Education - or something else entirely! - come along and find out more.\r\n\r\nA chance to talk to others with similar interests in your area, and to find out what is going on in the open data movement across the world.\r\n\r\nLucy Chambers and Laura Newman are travelling in India and Would love to meet fellow open data enthusiasts - and enthusiasts to be...!", 
+            "zip": "meetup4", 
+            "venue_name": "Jaaga.in - 68, KH Road. ", 
+            "address1": "KH Rd", 
+            "time": 1343737800000, 
+            "lon": 77.592896, 
+            "community": {
+                "urlname": "Open-Data-Bangalore", 
+                "id": 404752, 
+                "name": "Open Data - Bangalore"
+            }, 
+            "created": 1340976509000, 
+            "lat": 12.95839, 
+            "helpers": [
+                {
+                    "name": "Lucy Fedia Chambers", 
+                    "member_id": 28697992
+                }, 
+                {
+                    "name": "Archana Prasad", 
+                    "member_id": 54508972
+                }
+            ], 
+            "country": "in", 
+            "short_description": "Open Data Bangalore", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Open-Data-Bangalore/727742/", 
+            "id": 727742
+        }, 
+        {
+            "status": "past", 
+            "city": "S\u00e3o Paulo", 
+            "updated": 1343872872000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "A ideia do Hub OKFn \u00e9 montar, como parte das atividades da Open Knowledge Foundation no Brasil, um grupo de hackers, desenvolvedor@s, advogad@s e comunicador@s para implementar tecnologias livres em pequenos munic\u00edpios, departamentos de governo e organiza\u00e7\u00f5es n\u00e3o-governamentais.\r\n\r\nO foco inicial (que obviamente podendo ser rediscutido) esta nas implementa\u00e7\u00f5es de alguns sistemas livres a serem adaptados:\r\n\r\n*CKAN - Cat\u00e1logo de Dados Abertos (j\u00e1 usado no Dados.Gov.Br)\r\n*OpenSpending - Visualiza\u00e7\u00e3o de informa\u00e7\u00e3o or\u00e7ament\u00e1ria\r\n*Alaveteli - Sistema de Pedidos de informa\u00e7\u00e3o (j\u00e1 usado no Queremos Saber)\r\n*Alaveteli 2 - Sistema de comunica\u00e7\u00e3o com parlamentares (um fork, que j\u00e1 est\u00e1 sendo adaptado para uma ONG na S\u00e9rvia)\r\n\r\nA ideia desse primeiro encontro \u00e9 discutir a formata\u00e7\u00e3o desse grupo e uma agenda de trabalho para os pr\u00f3ximos meses.", 
+            "zip": "01153-000", 
+            "venue_name": "Casa da Cultura Digital", 
+            "address1": "459 R. Vitorino Carmilo", 
+            "time": 1343858400000, 
+            "lon": -46.651306, 
+            "community": {
+                "urlname": "Sao-Paulo-BR", 
+                "id": 379012, 
+                "name": "S\u00e3o Paulo"
+            }, 
+            "created": 1343320685000, 
+            "lat": -23.532898, 
+            "state": "S\u00e3", 
+            "helpers": [
+                {
+                    "name": "Daniela Silva", 
+                    "member_id": 6988417
+                }
+            ], 
+            "country": "br", 
+            "short_description": "1o encontro do Hub OKFn", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Sao-Paulo-BR/752552/", 
+            "id": 752552
+        }, 
+        {
+            "status": "past", 
+            "city": "S\u00e3o Paulo", 
+            "updated": 1343959344000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Um encontro informal para quem tem interesse no tema dos dados e do conhecimento aberto em Sao Paulo. Apareca para conhecer pessoas, ideias e projetos que tenham a ver com abertura e compartilhamento. Converse com colaboradores e colaboradoras da comunidade que esta se formando no Brasil, e descubra formas de participar tamb\u00e9m!\r\n\r\n* Evento aberto e gratuito (mas nao deixe de confirmar presenca nesta pagina!) \r\n* Pizza e cerveja para todos! Cortesia da OKFN ;) \r\n* Hashtag: #okfnbr", 
+            "zip": "01153-000", 
+            "venue_name": "Casa da Cultura Digital", 
+            "address1": "453 R. Vitorino Carmilo", 
+            "time": 1343944800000, 
+            "lon": -46.651276, 
+            "community": {
+                "urlname": "Sao-Paulo-BR", 
+                "id": 379012, 
+                "name": "S\u00e3o Paulo"
+            }, 
+            "created": 1341520952000, 
+            "lat": -23.53294, 
+            "state": "S\u00e3", 
+            "helpers": [
+                {
+                    "name": "Daniela Silva", 
+                    "member_id": 6988417
+                }
+            ], 
+            "country": "br", 
+            "short_description": "Pizza, Cerveja & Dados Abertos", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Sao-Paulo-BR/735082/", 
+            "id": 735082
+        }, 
+        {
+            "status": "past", 
+            "city": "Mumbai", 
+            "updated": 1344274308000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "For anyone interested in Open Data in Mumbai. \r\n\r\nWhether you are interested in Open Government Data, Open Science, Data Driven Journalism, Open Education - or something else entirely! - come along and find out more.\r\n\r\nA chance to talk to others with similar interests in your area, and to find out what is going on in the open data movement across the world.\r\n\r\nLucy Chambers and Laura Newman are travelling in India and would love to meet fellow open data enthusiasts - and enthusiasts to be...!\r\n\r\nFull address: \r\n\r\nPinstorm\r\nSwati Bldg\r\nGround Floor, \r\nb/h Kotak Bank, \r\nOff Linking Rd, \r\nNorth Avenue, \r\nSantacruz West, \r\nMumbai-54\r\n\r\nOur number: 07406658790\r\n\r\nTENTATIVE AGENDA (We're flexible and these are just suggestions, please feel free to add!)\r\n\r\n* Introductions \r\n* 3 minute lightning talks (who is working on what projects?) \r\n* Discussion on what open data is? What it means for India... \r\n* What are the most desirable datasets for your aims (and how do you get them)? \r\n* Action plan - how do we keep the discussion going? \r\n* [SUGGESTIONS FROM YOU!]", 
+            "zip": "meetup1", 
+            "venue_name": "Mumbai, India", 
+            "country": "in", 
+            "created": 1340976428000, 
+            "lon": 72.82, 
+            "community": {
+                "urlname": "Mumbai", 
+                "id": 404762, 
+                "name": "Mumbai"
+            }, 
+            "lat": 18.959999, 
+            "helpers": [
+                {
+                    "name": "Laura Newman", 
+                    "member_id": 32429482
+                }
+            ], 
+            "time": 1344259800000, 
+            "short_description": "Open Data Mumbai", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Mumbai/727732/", 
+            "id": 727732
+        }, 
+        {
+            "status": "past", 
+            "city": "Brussel", 
+            "updated": 1344441846000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "1000", 
+            "venue_name": "Vlaamse overheid", 
+            "country": "be", 
+            "created": 1339875571000, 
+            "lon": 4.35703, 
+            "community": {
+                "urlname": "Belgium", 
+                "id": 313632, 
+                "name": "Belgium"
+            }, 
+            "state": "Br", 
+            "helpers": [
+                {
+                    "name": "No\u00ebl Van Herreweghe", 
+                    "member_id": 8394668
+                }
+            ], 
+            "time": 1344427200000, 
+            "lat": 50.85997, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Belgium/718802/", 
+            "id": 718802
+        }, 
+        {
+            "status": "past", 
+            "city": "Ni Dilli", 
+            "updated": 1344526215000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "For anyone interested in Open Data in New Delhi.\r\n\r\nWhether you are interested in Open Government Data, Open Science, Data Driven Journalism, Open Education - or something else entirely! - come along and find out more.\r\n\r\nA chance to talk to others with similar interests in your area, and to find out what is going on in the open data movement across the world.\r\n\r\nLucy Chambers and Laura Newman are travelling in India and would love to meet fellow open data enthusiasts - and enthusiasts to be...!\r\n\r\nNational Institute of Public Finance and Policy - NIPFP\r\n(http://macrofinance.nipfp.org.in/)\r\nGround Floor Conference Room, New Building\r\n\r\nMap of Meetup Location: http://goo.gl/05w0d\r\n\r\nLandmarks: JNU east gate, Qutub\r\nInstitutional Area.\r\n\r\nTENTATIVE AGENDA (We're flexible, please feel free to add!)\r\n\r\n* Introductions\r\n* 3 minute lightning talks (who is working on what projects?) \r\n* Discussion on what open data is? What it means for India...\r\n* What are the most desirable datasets?\r\n* Action plan - how do we keep the discussion going?\r\n* [SUGGESTIONS FROM YOU!]\r\n\r\nContact phone: 7406658790", 
+            "zip": "meetup120", 
+            "venue_name": "New Delhi", 
+            "country": "in", 
+            "created": 1340977528000, 
+            "lon": 77.220001, 
+            "community": {
+                "urlname": "Open-Data-New-Delhi", 
+                "id": 404782, 
+                "name": "Open Data - New Delhi"
+            }, 
+            "lat": 28.6, 
+            "helpers": [
+                {
+                    "name": "Lucy Fedia Chambers", 
+                    "member_id": 28697992
+                }
+            ], 
+            "time": 1344511800000, 
+            "short_description": "Open Data New Delhi", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Open-Data-New-Delhi/727762/", 
+            "id": 727762
+        }, 
+        {
+            "status": "past", 
+            "city": "Cape Town", 
+            "updated": 1344544231000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Cameron Neylon, one of the world\u0092s greatest advocates of open science is in Cape Town. Science is undergoing a data revolution and there is more data generated in science today than can possibly be worked on by the scientists generating the data. This is the time to go the Open Science route: to make the most of the data that has been generated and make scientific discovery within reach of all scientists.\r\n\r\n* Please bring R30 to contribute to pizza and refreshments \r\n* Hashtag: #OpenMeetupCT", 
+            "venue_name": "Open Innovation Studio", 
+            "country": "za", 
+            "created": 1343810337000, 
+            "lon": 18.424055, 
+            "community": {
+                "urlname": "Cape-Town", 
+                "id": 262912, 
+                "name": "Cape Town"
+            }, 
+            "lat": -33.92487, 
+            "state": "WC", 
+            "helpers": [
+                {
+                    "name": "Carolina \u00d6dman-Govender", 
+                    "member_id": 10253292
+                }, 
+                {
+                    "name": "Kelsey Wiens", 
+                    "member_id": 21852641
+                }
+            ], 
+            "time": 1344529800000, 
+            "short_description": "Open Knowledge evening broadly themed Open Science", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Cape-Town/756172/", 
+            "id": 756172
+        }, 
+        {
+            "status": "past", 
+            "city": "S\u00e3o Paulo", 
+            "updated": 1344560445000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "O PoliGNU convida a todas e todos para nosso primeiro encontro no semestre relativo ao Projeto Radar Parlamentar (http://radarparlamentar.polignu.org).\r\n\r\nA proposta deste encontro \u00e9 pensar em melhorias e novos recursos que podem existir no sistema.\r\nAl\u00e9m disso, pensar em possibilidades de intera\u00e7\u00e3o entre essa ferramenta e o pessoal \"t\u00e9cnico\" com outras \u00e1reas do conhecimento, como Ci\u00eancias Sociais e jornalismo.\r\n\r\nPor fim, ser\u00e1 feito um planejamento das pr\u00f3ximas atividades do projeto.\r\n\r\nTodas as pessoas s\u00e3o muito bem vindas!", 
+            "zip": "meetup1", 
+            "venue_name": "Escrit\u00f3rio Piloto - sala S-33 do pr\u00e9dio da Engenharia Civil da Escola Polit\u00e9cnica da USP, na Cidade Universit\u00e1ria (Butant\u00e3)", 
+            "country": "br", 
+            "created": 1344090983000, 
+            "lon": -46.630001, 
+            "community": {
+                "urlname": "Sao-Paulo-BR", 
+                "id": 379012, 
+                "name": "S\u00e3o Paulo"
+            }, 
+            "lat": -23.530001, 
+            "helpers": [
+                {
+                    "name": "Diego Rabatone", 
+                    "member_id": 57270202
+                }
+            ], 
+            "time": 1344546000000, 
+            "short_description": "Radar Parlamentar", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Sao-Paulo-BR/758922/", 
+            "id": 758922
+        }, 
+        {
+            "status": "past", 
+            "city": "Columbia", 
+            "updated": 1344657726000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "65201", 
+            "created": 1342491843000, 
+            "country": "us", 
+            "lon": -92.25, 
+            "community": {
+                "urlname": "CoMo-Open-Knowledge-Data", 
+                "id": 415102, 
+                "name": "CoMo Open Knowledge/Data"
+            }, 
+            "state": "MO", 
+            "helpers": [
+                {
+                    "name": "Steven Rich", 
+                    "member_id": 43825702
+                }
+            ], 
+            "time": 1344643200000, 
+            "lat": 38.900002, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/CoMo-Open-Knowledge-Data/743162/", 
+            "id": 743162
+        }, 
+        {
+            "status": "past", 
+            "city": "S\u00e3o Paulo", 
+            "updated": 1345932074000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "No s\u00e1bado, 25 de agosto, vamos ter a segunda edi\u00e7\u00e3o do Papos com Dados organizado pela Open Knowledge Foundation Brasil e pela Transpar\u00eancia Hacker! Desta vez o encontro ser\u00e1 sediado na A\u00e7\u00e3o Educativa e a conversa, \u00e9 claro, sobre dados educacionais. \r\n\r\nNo primeiro encontro falamos sobre os maiores problemas de S\u00e3o Paulo, especialmente sobre transporte, seguran\u00e7a e sa\u00fade. D\u00e1 para saber mais aqui: http://br.okfn.org/2012/04/21/papo-com-dados-os-maiores-problemas-de-sao-paulo/\r\n\r\nA ideia do evento \u00e9 simples: conversar com especialistas que conhe\u00e7am ou trabalhem com dados de educa\u00e7\u00e3o para ter um panorama geral de quais s\u00e3o as informa\u00e7\u00f5es dispon\u00edveis, como obt\u00ea-las e as poss\u00edveis dificuldades encontradas nesse processo. \r\n\r\nO encontro pode servir de ponto de partida para a cria\u00e7\u00e3o de aplicativos, mat\u00e9rias jornal\u00edsticas e, at\u00e9 mesmo, para a mobiliza\u00e7\u00e3o em torno da libera\u00e7\u00e3o de dados n\u00e3o dispon\u00edveis.\r\n\r\n\r\n*Saiba mais sobre a A\u00e7\u00e3o Educativa: http://www.acaoeducativa.org/", 
+            "zip": "01223-010", 
+            "venue_name": "Rua General Jardim, 660", 
+            "address1": "660 R. Gen. Jardim", 
+            "time": 1345917600000, 
+            "lon": -46.651012, 
+            "community": {
+                "urlname": "Sao-Paulo-BR", 
+                "id": 379012, 
+                "name": "S\u00e3o Paulo"
+            }, 
+            "created": 1345076300000, 
+            "lat": -23.544535, 
+            "state": "S\u00e3", 
+            "helpers": [
+                {
+                    "name": "Priscilla", 
+                    "member_id": 39770472
+                }
+            ], 
+            "country": "br", 
+            "short_description": "Papo com Dados: Educa\u00e7\u00e3o", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Sao-Paulo-BR/766902/", 
+            "id": 766902
+        }, 
+        {
+            "status": "past", 
+            "city": "Edinburgh", 
+            "updated": 1346364136000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "The next #OpenDataEDB sneaks in at the end of the Fringe...\r\n\r\nOKFN Meet-ups are friendly and informal evenings for people to get together to share and argue all areas of openness. Come and join discussions around open knowledge and open data - from politics and philosophy to practicalities of theory and practice.\r\n\r\nHosted by the Informatics Forum, if the weather is fine we will be making use of the roof terrace!\r\n\r\nConfirmed lightning talks as follows:\r\n* James Baster - Open Tech Calendar: introduction to this early-stage project to bring tech meetups together, talk about the different ways we are trying to be open and ask for feedback and help;\r\n* Ewan Klein - short overview of business models for Open Data, including for government bodies;\r\n* Gordon Dunsire - library standards and linked data;\r\n* Gill Hamilton - National Library of Scotland's perspective of library standards and open data;\r\n* Naomi Lillie - OKFN as part of the Scottish Open effort.\r\n\r\nIf you would like to give a lightning talk (informal 2-3 minute presentations) on Open Data or related subjects, contact naomi.lillie [@] okfn.org.\r\n\r\n#OpenDataEDB\r\n#OKFN", 
+            "zip": "EH8", 
+            "venue_name": "Informatics Forum, University of Edinburgh", 
+            "address1": "George Square", 
+            "time": 1346349600000, 
+            "lon": -3.188748, 
+            "community": {
+                "urlname": "Edinburgh-GB", 
+                "id": 219112, 
+                "name": "Edinburgh"
+            }, 
+            "created": 1344937950000, 
+            "lat": 55.944317, 
+            "state": "Sc", 
+            "helpers": [
+                {
+                    "name": "Naomi Lillie", 
+                    "member_id": 39312722
+                }
+            ], 
+            "country": "gb", 
+            "short_description": "OKFN Edinburgh meet-up #3", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Edinburgh-GB/765502/", 
+            "id": 765502
+        }, 
+        {
+            "status": "past", 
+            "city": "KBH", 
+            "updated": 1347481966000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "This will be the first OKFN meetup in Copenhagen.", 
+            "zip": "1453", 
+            "venue_name": "Sankt Peders Str\u00e6de 34", 
+            "address1": "34 Sankt Peders Str\u00e6de", 
+            "time": 1347467400000, 
+            "lon": 12.567098, 
+            "community": {
+                "urlname": "Copenhagen-DK", 
+                "id": 236952, 
+                "name": "Copenhagen"
+            }, 
+            "created": 1320357342000, 
+            "state": "Ho", 
+            "helpers": [
+                {
+                    "name": "Niels Erik Kaaber Rasmussen", 
+                    "member_id": 29724112
+                }
+            ], 
+            "country": "dk", 
+            "lat": 55.678829, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Copenhagen-DK/479132/", 
+            "id": 479132
+        }, 
+        {
+            "status": "past", 
+            "city": "Santos", 
+            "updated": 1347588255000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Um encontro informal para quem tem interesse no tema dos dados e do conhecimento aberto em Santos. Apare\u00e7a para conhecer pessoas, ideias e projetos que tenham a ver com abertura e compartilhamento. Converse com colaboradores e colaboradoras da comunidade que esta se formando no Brasil, e descubra formas de participar tamb\u00e9m!\r\n\r\n* Evento aberto e gratuito (mas nao deixe de confirmar presenca nesta pagina!)\r\n* Pizza e cerveja para todos! Cortesia da OKFN ;)\r\n* Hashtag: #okfnbr", 
+            "zip": "11030-160", 
+            "venue_name": "Casa da Cultura Digital Santos", 
+            "address1": "72 R. Dr. Eg\u00eddio Martins", 
+            "time": 1347573600000, 
+            "lon": -46.304409, 
+            "community": {
+                "urlname": "Santos-BR", 
+                "id": 432962, 
+                "name": "Santos"
+            }, 
+            "created": 1345843851000, 
+            "lat": -23.984554, 
+            "state": "S\u00e3", 
+            "helpers": [
+                {
+                    "name": "Daniela Silva", 
+                    "member_id": 6988417
+                }
+            ], 
+            "country": "br", 
+            "short_description": "Pizza, Cerveja & Dados Abertos", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Santos-BR/773802/", 
+            "id": 773802
+        }, 
+        {
+            "status": "past", 
+            "city": "Gent", 
+            "updated": 1347620687000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Non-students are welcome to take a peek and to mentor the students where needed. Please RSVP as we need to have an estimate of the number of people who want Pizza at noon.\r\n\r\nStudents, researchers and just graduated students, are welcome to participate in the hackathon. More information on http://appsforflanders.be. If you participate in the hackathon, please register on the site.", 
+            "zip": "9050", 
+            "venue_name": "Gaston Crommenlaan 8", 
+            "address1": "8 Gaston Crommenlaan", 
+            "time": 1347606000000, 
+            "lon": 3.735186, 
+            "community": {
+                "urlname": "Belgium", 
+                "id": 313632, 
+                "name": "Belgium"
+            }, 
+            "created": 1346578201000, 
+            "lat": 51.036343, 
+            "state": "Vl", 
+            "helpers": [
+                {
+                    "name": "Pieter Colpaert", 
+                    "member_id": 13472540
+                }
+            ], 
+            "country": "be", 
+            "short_description": "Apps For Flanders Student Hackathon", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Belgium/781062/", 
+            "id": 781062
+        }, 
+        {
+            "status": "past", 
+            "city": "Helsinki", 
+            "updated": 1347829391000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Join us for a pre OKFest get-together for those of you who are already in Helsinki and hungry for some Mexican food and good company! The restaurant is easy-going, and It is ok to only buy a beer if you don't want to eat. \r\n\r\nThe Santa Fe restaurant is in the center of Helsinki at 15 Aleksanterinkatu (about 500 m. from the railway station). No table reservation needed: http://www.rafla.fi/santafe/en/", 
+            "venue_name": "Restaurant Santa Fe", 
+            "country": "fi", 
+            "created": 1347781775000, 
+            "lon": 24.938551, 
+            "community": {
+                "urlname": "Helsinki", 
+                "id": 231532, 
+                "name": "Helsinki"
+            }, 
+            "lat": 60.169846, 
+            "state": "Uu", 
+            "helpers": [
+                {
+                    "name": "Antti Poikola", 
+                    "member_id": 9039541
+                }
+            ], 
+            "time": 1347814800000, 
+            "short_description": "Informal OKfest Pre-dinner!", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Helsinki/793582/", 
+            "id": 793582
+        }, 
+        {
+            "status": "past", 
+            "city": "Oxford", 
+            "updated": 1348698890000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Citizen scientists contribute massive amounts of time and data to advance scientific knowledge, from online projects like Galaxy Zoo and Planet Hunters at the Zooniverse to tracking ladybirds and butterflies. Join us for a discussion about the potential of citizen science in the digital age and specifically the role that openess plays in terms of the data, the research process itself and the communication of results. \r\n\r\nThere will be a particular focus on the participatory aspect of citizen science and direc t interaction with the public that is missing from discussions about openess in other areas of research. \r\n\r\nPoints for discussion include: Is there a moral imperative for researchers who use citizen sourced data to make that data and resulting publications publicly available? Is open participation the most important thing? Are there privacy issues concerning citizen science projects which will limit potential opening up of data?\r\n\r\nSpeakers:\r\n\r\nJenny Molloy, Open Knowledge Foundation\r\nChris Lintott, Citizen Science Project Lead at Zooniverse, University of Oxford\r\nMatthias Stevens, Extreme Citizen Science Research Group, UCL", 
+            "zip": "OX1 3QG", 
+            "venue_name": "Oxford e-Research Centre", 
+            "address1": "7 Keble Rd", 
+            "time": 1348684200000, 
+            "lon": -1.258487, 
+            "community": {
+                "urlname": "Oxford-Open-Science", 
+                "id": 448042, 
+                "name": "Oxford Open Science"
+            }, 
+            "created": 1348563495000, 
+            "lat": 51.759682, 
+            "state": "K2", 
+            "helpers": [
+                {
+                    "name": "Jenny Molloy", 
+                    "member_id": 63525232
+                }
+            ], 
+            "country": "gb", 
+            "short_description": "Citizen Science: The Role of Openness", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Oxford-Open-Science/802132/", 
+            "id": 802132
+        }, 
+        {
+            "status": "past", 
+            "city": "Z\u00fcrich", 
+            "updated": 1348830100000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Switzerland's next Open Data Camp brings together thinkers and makers around the topic of Open Health Data. Register now and help accelerate openness, innovation and efficiency in health services: http://make.opendata.ch", 
+            "zip": "meetup1", 
+            "venue_name": "Unternehmen Mitte", 
+            "address1": "Gerbergasse 30", 
+            "time": 1348815600000, 
+            "lon": 7.588397, 
+            "community": {
+                "urlname": "Zurich-CH", 
+                "id": 358812, 
+                "name": "Z\u00fcrich"
+            }, 
+            "created": 1345456379000, 
+            "lat": 47.556541, 
+            "helpers": [
+                {
+                    "name": "Andreas Amsler", 
+                    "member_id": 41510482
+                }
+            ], 
+            "country": "ch", 
+            "short_description": "make.opendata.ch: Health Hackdays Basle", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Zurich-CH/769602/", 
+            "id": 769602
+        }, 
+        {
+            "status": "past", 
+            "city": "Genf", 
+            "updated": 1348830100000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Switzerland's next Open Data Camp brings together thinkers and makers around the topic of Open Health Data. Register now and help accelerate openness, innovation and efficiency in health services: http://make.opendata.ch", 
+            "zip": "1201", 
+            "venue_name": "HEAD", 
+            "address1": "15 Boulevard James-Fazy", 
+            "time": 1348815600000, 
+            "lon": 6.141291, 
+            "community": {
+                "urlname": "Zurich-CH", 
+                "id": 358812, 
+                "name": "Z\u00fcrich"
+            }, 
+            "created": 1345456927000, 
+            "lat": 46.208904, 
+            "state": "GE", 
+            "helpers": [
+                {
+                    "name": "Andreas Amsler", 
+                    "member_id": 41510482
+                }
+            ], 
+            "country": "ch", 
+            "short_description": "make.opendata.ch: Health Hackdays Geneva", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Zurich-CH/769612/", 
+            "id": 769612
+        }, 
+        {
+            "status": "past", 
+            "city": "Praha", 
+            "updated": 1349208119000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Come to meet the Czech opendata community face to face. \r\n\r\n\r\nProgramme:\r\n - Open Knowledge Festival (http://okfestival.org/) is the world's biggest open data event - Czech participants will come to share their experience and inspiration\r\n-  http://www.nasstat.cz/- Czech opendata platform and its development\r\n- Czech chapter of Open Knowledge Foundation http://cz.okfn.org/\r\n\r\n \r\nThe programme is open to any contribution, if you want to prepare a lightning talk, a presentation etc. feel free to do so\r\n\r\n#opendatacz", 
+            "zip": "150 00", 
+            "venue_name": "Caf\u00e9 3+1", 
+            "address1": "10 Plask\u00e1", 
+            "time": 1349193600000, 
+            "lon": 14.40544, 
+            "community": {
+                "urlname": "Open-data-Prague", 
+                "id": 273022, 
+                "name": "Open data Prague"
+            }, 
+            "created": 1348422698000, 
+            "lat": 50.080757, 
+            "state": "Hl", 
+            "helpers": [
+                {
+                    "name": "Michaela Rybickova", 
+                    "member_id": 31645412
+                }
+            ], 
+            "country": "cz", 
+            "short_description": "Prague open data meetup #3 - sharing experience from Open Knowledge Festival", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Open-data-Prague/800042/", 
+            "id": 800042
+        }, 
+        {
+            "status": "past", 
+            "city": "Cambridge", 
+            "updated": 1349316208000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "We're looking for ways to support global annotation, web caching, and shared data initiatives.  Some local folks are helping launch an Awesome Knowledge chapter.  \r\n\r\nCome hang out and share your own projects and ideas.  And suggest dates for future meetings in this thread, esp. if you can't make October 3.\r\n\r\nThings to touch on in the first meeting:\r\n* clusters of local OK and open data interest, \r\n* projects that we could draw into the fold or help work better with one another,\r\n* what we'd like to see change in the coming year.  \r\n* logistics of having a local group: possible hosts an sponsors, future meetings\r\n\r\nI'll bring snacks: tell me what you'd like :)", 
+            "venue_name": "Maxwell-Dworkin lobby, Oxford St", 
+            "address1": "Oxford St", 
+            "time": 1349301600000, 
+            "lon": -71.116409, 
+            "community": {
+                "urlname": "Boston-MA", 
+                "id": 363852, 
+                "name": "Boston"
+            }, 
+            "created": 1347474696000, 
+            "lat": 42.380741, 
+            "state": "MA", 
+            "helpers": [
+                {
+                    "name": "SJ", 
+                    "member_id": 372973
+                }
+            ], 
+            "country": "us", 
+            "short_description": "Hack the Boston knowledge scene!", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Boston-MA/789632/", 
+            "id": 789632
+        }, 
+        {
+            "status": "past", 
+            "city": "San Francisco", 
+            "updated": 1349327018000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Interested in open data, open content or the public domain? If so we'd love to meet you! \r\n\r\nOpen Knowledge Foundation Co-Founder Rufus Pollock will be hosting the first OKFN meetup in San Francisco.\r\n\r\nIf you know other people or organisations who might be interested in coming along, we'd be grateful if you could help to spread the word.", 
+            "zip": "94105", 
+            "venue_name": "Wikimedia Foundation", 
+            "address1": "149 New Montgomery St", 
+            "time": 1349312400000, 
+            "lon": -122.399559, 
+            "community": {
+                "urlname": "San-Francisco-CA", 
+                "id": 446182, 
+                "name": "San Francisco"
+            }, 
+            "created": 1348083809000, 
+            "state": "CA", 
+            "helpers": [
+                {
+                    "name": "Sarah Stierch", 
+                    "member_id": 62713402
+                }
+            ], 
+            "country": "us", 
+            "lat": 37.786964, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/San-Francisco-CA/797022/", 
+            "id": 797022
+        }, 
+        {
+            "status": "past", 
+            "city": "Washington", 
+            "updated": 1350010981000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "20001", 
+            "created": 1343321495000, 
+            "country": "us", 
+            "lon": -77.019997, 
+            "community": {
+                "urlname": "Washington-D-C", 
+                "id": 420232, 
+                "name": "Washington D.C."
+            }, 
+            "lat": 38.91, 
+            "state": "DC", 
+            "helpers": [
+                {
+                    "name": "Salman", 
+                    "member_id": 7003273
+                }
+            ], 
+            "time": 1349996400000, 
+            "short_description": "First Meetup", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Washington-D-C/752562/", 
+            "id": 752562
+        }, 
+        {
+            "status": "upcoming", 
+            "city": "Madrid", 
+            "updated": 1349741696000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Meetup abierto para los miembros de OKFN list o personas interesadas en las actividades de la OKFN en Espa\u00f1a. \r\nNos reunimos en Madrid con vistas a la reuni\u00f3n en el FCForum donde vienen Kat y Daniel (Dietrich) de la OKFN. \r\nHablaremos de nuestro futuro y de las actividades a lanzar. \r\nY despediremos a Alvaro que se nos va a Chile :-D\r\ny nuestros estatutos, nuestro roadmap, iniciativas que podemos lanzar, eventos en los que participar y la realidad legislativa... con unas cervezitas", 
+            "zip": "28020", 
+            "venue_name": "Irish rover, Av/ brasil 7", 
+            "address1": "7 Av del Brasil", 
+            "time": 1350583200000, 
+            "lon": -3.693657, 
+            "community": {
+                "urlname": "Madrid-ES", 
+                "id": 404812, 
+                "name": "Madrid"
+            }, 
+            "created": 1349658038000, 
+            "state": "Ma", 
+            "helpers": [
+                {
+                    "name": "alberto abella", 
+                    "member_id": 52897642
+                }
+            ], 
+            "country": "es", 
+            "lat": 40.454945, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Madrid-ES/811922/", 
+            "id": 811922
+        }, 
+        {
+            "status": "upcoming", 
+            "city": "M\u00e9xico City", 
+            "updated": 1348582380000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "zip": "meetup1", 
+            "venue_name": "SAL\u00d3N LOS CANDILES POLANCO", 
+            "address1": "Ej\u00e9rcito Nacional 613", 
+            "time": 1350763200000, 
+            "lon": -99.197311, 
+            "community": {
+                "urlname": "Mexico-City-MX", 
+                "id": 448652, 
+                "name": "M\u00e9xico City"
+            }, 
+            "created": 1348582253000, 
+            "helpers": [
+                {
+                    "name": "Daniel Ramos", 
+                    "member_id": 11926853
+                }
+            ], 
+            "country": "mx", 
+            "lat": 19.438471, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Mexico-City-MX/802852/", 
+            "id": 802852
+        }, 
+        {
+            "status": "upcoming", 
+            "city": "Oxford", 
+            "updated": 1350306536000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "The Bodleian Libraries is building a new 21st century digital \u0091republic of letters,\u0092 extending Thomas Bodley\u0092s original vision for his library to open up collections to all who need them. The Libraries are creating digital open access collections, and are using web technologies to provide free access to Oxford research publications, research data and bibliographic data.\r\n\r\nFind out how the libraries are helping Oxford researchers make their science open and bring your questions!\r\n\r\nPresenters:\r\nDr Wolfram Horstmann: Associate Director, Digital Library Programmes and Information Technology\r\n\r\nAlena Ptak-Danchak: Keeper of Scientific Books and Head of Bodleian Science and Medical Libraries\r\n\r\nSally Rumsey: Digital Collections Development Manager\r\n\r\nNeil Jefferies: Research and Development Project Manager\r\n\r\nTopics presented for discussion include:\r\nAn overview of the Bodleian and openness in the context of the University\r\nThe view from the sciences\r\nORA and open publications and theses\r\nOpen data, DataBank and DataFinder\r\nThe technologies behind our services\r\n\r\nPart of Open Access Week! See more activities here http://www.bodleian.ox.ac.uk/__data/assets/pdf_file/0019/111925/Poster-2012-v.2-11102012.pdf", 
+            "zip": "OX1 3QG", 
+            "venue_name": "Oxford e-Research Centre", 
+            "address1": "7 Keble Rd", 
+            "time": 1351017000000, 
+            "lon": -1.258487, 
+            "community": {
+                "urlname": "Oxford-Open-Science", 
+                "id": 448042, 
+                "name": "Oxford Open Science"
+            }, 
+            "created": 1350306536000, 
+            "lat": 51.759682, 
+            "state": "K2", 
+            "helpers": [
+                {
+                    "name": "Jenny Molloy", 
+                    "member_id": 63525232
+                }
+            ], 
+            "country": "gb", 
+            "short_description": "The Bodleian on Open Science: Bodley\u0092s \u0091Republic of [open] letters'", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Oxford-Open-Science/815362/", 
+            "id": 815362
+        }, 
+        {
+            "status": "upcoming", 
+            "city": "Oxford", 
+            "updated": 1350407425000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "OKFN Meet-ups are friendly and informal evenings for people to get together and talk about open data. Join us to meet local open data enthusiasts whether your interest is government, science, economics, mapping, international development or more!", 
+            "venue_name": "Lamb and Flag", 
+            "address1": "St Giles'", 
+            "time": 1351017000000, 
+            "lon": -1.259903, 
+            "community": {
+                "urlname": "Oxford-GB", 
+                "id": 236212, 
+                "name": "Oxford"
+            }, 
+            "created": 1350407222000, 
+            "helpers": [
+                {
+                    "name": "Jenny Molloy", 
+                    "member_id": 63525232
+                }
+            ], 
+            "country": "gb", 
+            "lat": 51.757172, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Oxford-GB/816152/", 
+            "id": 816152
+        }, 
+        {
+            "status": "upcoming", 
+            "city": "Helsinki", 
+            "updated": 1349356386000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Ohjelma ja lis\u00e4tiedot: http://fi.okfn.org/meetups/avoin-data-2012/\r\n\r\nMit\u00e4: Avoin Data 2012 iltap\u00e4iv\u00e4seminaari\r\n\r\nMilloin: Keskiviikko 24.10.2012, klo 11:30-17:30\r\n\r\nMiss\u00e4: Sitra , It\u00e4merentori 2\r\n\r\nIlmoittautumislinkki http://avoindata2012.eventbrite.com \r\n\r\nTilaisuus on maksuton, ennakkoilmoittautumiset 20.10.2012 menness\u00e4 tai siihen asti, kun paikkoja riitt\u00e4\u00e4.\r\n\r\nHuom: Tilaisuuteen mahtuu vain 50 ensimm\u00e4iseksi ilmoittautunutta, mik\u00e4li olet ilmoittautunut, mutta et p\u00e4\u00e4se paikalle, niin ole yst\u00e4v\u00e4llinen ja l\u00e4het\u00e4 peruutusilmoitus osoitteeseen: antti.poikola [a] gmail.com", 
+            "zip": "meetup1", 
+            "created": 1349356126000, 
+            "country": "fi", 
+            "lon": 24.940001, 
+            "community": {
+                "urlname": "Helsinki", 
+                "id": 231532, 
+                "name": "Helsinki"
+            }, 
+            "helpers": [
+                {
+                    "name": "Antti Poikola", 
+                    "member_id": 9039541
+                }
+            ], 
+            "time": 1351067400000, 
+            "lat": 60.169998, 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Helsinki/809802/", 
+            "id": 809802
+        }, 
+        {
+            "status": "upcoming", 
+            "city": "Boston", 
+            "updated": 1348783884000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Sometime in November: we'll have visitors from OKFN UK who want to get involved, and bring some love from the recent OK Festival with them.  Let's have a meeting with them while they are in town.\r\n\r\nDate are flexible; please note when you can make a meeting in the comments.", 
+            "zip": "02108", 
+            "venue_name": "Maxwell-Dworkin Lobby", 
+            "country": "us", 
+            "created": 1348740385000, 
+            "lon": -71.07, 
+            "community": {
+                "urlname": "Boston-MA", 
+                "id": 363852, 
+                "name": "Boston"
+            }, 
+            "lat": 42.360001, 
+            "state": "MA", 
+            "helpers": [
+                {
+                    "name": "SJ", 
+                    "member_id": 372973
+                }
+            ], 
+            "time": 1352934000000, 
+            "short_description": "Meet & greet, identify project clusters with local interest", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Boston-MA/805022/", 
+            "id": 805022
+        }, 
+        {
+            "status": "upcoming", 
+            "city": "London", 
+            "updated": 1350302057000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "description": "Open Interests Europe brings together developers, designers, activists, journalists and other geeks for two days of learning, fun, intense hacking and app building.\r\n\r\nHow EU money is spent is an issue that concerns everyone who pays taxes to the EU. As the influence of Brussels lobbyists grows, it is increasingly important to draw the connections between lobbying, policy-making and funding. Journalists and activists need browsable databases, tools and platforms to investigate lobbyists\u0092 influence and where the money goes in the EU. Join us and help build these tools!\r\n\r\nThe Hackathon challenges include Lobbying Transparency and Fish Subsidies.\r\n\r\nOrganised by the Open Knowledge Foundation and the European Journalism Centre, sponsored by Knight-Mozilla OpenNews.\r\n\r\nFor more details, please see the event website: \r\nhttp://okfnlabs.org/events/hackdays/lobbying.html\r\n\r\nand register at http://openinterests.eventbrite.com", 
+            "zip": "EC2A", 
+            "venue_name": "4-5 Bonhill Street", 
+            "address1": "5 Bonhill St", 
+            "time": 1353751200000, 
+            "lon": -0.085334, 
+            "community": {
+                "urlname": "London-GB", 
+                "id": 223772, 
+                "name": "London"
+            }, 
+            "created": 1350301820000, 
+            "lat": 51.52272, 
+            "state": "En", 
+            "helpers": [
+                {
+                    "name": "Velichka Dimitrova", 
+                    "member_id": 34270782
+                }
+            ], 
+            "country": "gb", 
+            "short_description": "Open Interests Europe Hackathon in London", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/London-GB/815352/", 
+            "id": 815352
+        }
+    ]
+}
