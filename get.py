@@ -63,12 +63,6 @@ def dump_event_csv(data):
             w.writerow( to_csv_row(x) )
         f.close()
 
-
-if __name__=='__main__':
-    print json.dumps(list_events(), indent=4)
-
-
-
 class UnicodeWriter:
     """
     A CSV writer which will write rows to CSV file "f",
@@ -101,3 +95,11 @@ class UnicodeWriter:
     def writerows(self, rows):
         for row in rows:
             self.writerow(row)
+
+if __name__=='__main__':
+    # print json.dumps(list_events(), indent=4)
+    dump_event_csv(list_events())
+    with open('communities.json', 'w') as out:
+        json.dump(list_communities(), out, indent=4)
+
+

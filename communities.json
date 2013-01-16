@@ -1,74 +1,1497 @@
 {
-    "S\u00e3o Paulo": 379012, 
-    "Santos": 432962, 
-    "Utrecht": 328372, 
-    "Auckland": 411972, 
-    "Sofija": 377172, 
-    "Bologna": 398412, 
-    "Ulm": 290802, 
-    "Usk": 429302, 
-    "Pune": 431632, 
-    "Tampere": 315812, 
-    "Ni Dilli": 404782, 
-    "Manila": 320572, 
-    "Salerno": 410632, 
-    "Curitiba": 398822, 
-    "Taipei": 231592, 
-    "York": 325332, 
-    "Vienna": 450352, 
-    "Edinburgh": 219112, 
-    "Santiago": 358612, 
-    "Columbia": 415102, 
-    "Bras\u00edlia": 385892, 
-    "Moscow": 394362, 
-    "Chicago": 236352, 
-    "Buenos Aires": 358412, 
-    "Campinas": 302522, 
-    "Bangkok": 450542, 
-    "Mumbai": 404762, 
-    "Berlin": 211142, 
-    "Seattle": 451672, 
-    "Vijayawada": 421612, 
-    "Carquefou": 390192, 
-    "Manchester": 261852, 
-    "Bangalore": 404752, 
-    "Brussels": 313632, 
-    "Brighton": 446642, 
-    "Budapest": 332352, 
-    "Eindhoven": 362242, 
-    "Helsinki": 231532, 
-    "Jakarta": 371022, 
-    "Tokyo": 398492, 
-    "Wellington": 368252, 
-    "Cape Town": 262912, 
-    "Rio de Janeiro": 384072, 
-    "Oxford": 448042, 
-    "Wolverhampton": 347812, 
-    "Almere": 332702, 
-    "Barcelona": 272282, 
-    "Roma": 330712, 
-    "Tunis": 333552, 
-    "Thessalon\u00edki": 330162, 
-    "Nairobi": 411502, 
-    "La Paz": 445452, 
-    "Cambridge": 231572, 
-    "San Francisco": 446182, 
-    "Canberra": 385642, 
-    "Lakhnau": 398112, 
-    "Bogot\u00e1": 446562, 
-    "Boston": 363852, 
-    "Prague": 273022, 
-    "Bobo Dioulasso": 361282, 
-    "Washington": 420232, 
-    "Rivne": 340302, 
-    "M\u00fcnchen": 399362, 
-    "Blackpool": 396902, 
-    "Lagos": 249942, 
-    "London": 223772, 
-    "M\u00e9xico City": 448652, 
-    "Madrid": 404812, 
-    "Amsterdam": 446032, 
-    "Copenhagen": 236952, 
-    "Krak\u00f3w": 454592, 
-    "Z\u00fcrich": 358812
+    "meta": {
+        "count": 81, 
+        "updated": 1357750960000, 
+        "description": "API method for accessing communities", 
+        "title": "Community", 
+        "url": "https://api.meetup.com/ew/communities?key=11682e6da241c7e4e407c293a2b5c&radius=25.0&order=name&offset=0&format=json&page=200&container_id=14142", 
+        "total_count": 81, 
+        "lon": "", 
+        "next": "", 
+        "method": "Communities", 
+        "link": "https://api.meetup.com/ew/communities", 
+        "lat": "", 
+        "id": ""
+    }, 
+    "results": [
+        {
+            "city": "Almere", 
+            "updated": 1328903529000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Almere", 
+            "zip": "meetup8", 
+            "created": 1328903529000, 
+            "country": "nl", 
+            "lon": 5.170000076293945, 
+            "lat": 52.36000061035156, 
+            "urlname": "Almere", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Almere/", 
+            "id": 332702
+        }, 
+        {
+            "city": "Amsterdam", 
+            "updated": 1348070947000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Amsterdam", 
+            "zip": "meetup1", 
+            "created": 1348070947000, 
+            "country": "nl", 
+            "lon": 4.889999866485596, 
+            "lat": 52.369998931884766, 
+            "urlname": "Amsterdam-NL", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Amsterdam-NL/", 
+            "id": 446032
+        }, 
+        {
+            "city": "Carquefou", 
+            "updated": 1337247915000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Ancenis", 
+            "zip": "meetup510", 
+            "created": 1337247915000, 
+            "country": "fr", 
+            "lon": -1.5, 
+            "lat": 47.29999923706055, 
+            "urlname": "Ancenis", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Ancenis/", 
+            "id": 390192
+        }, 
+        {
+            "city": "Auckland", 
+            "updated": 1341809514000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Auckland", 
+            "zip": "meetup1", 
+            "created": 1341809514000, 
+            "country": "nz", 
+            "lon": 174.75999450683594, 
+            "lat": -36.849998474121094, 
+            "urlname": "Auckland", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Auckland/", 
+            "id": 411972
+        }, 
+        {
+            "city": "Bangkok", 
+            "updated": 1348678836000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Bangkok", 
+            "zip": "meetup1", 
+            "created": 1348678836000, 
+            "country": "th", 
+            "lon": 100.5, 
+            "lat": 13.729999542236328, 
+            "urlname": "Bangkok-TH", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Bangkok-TH/", 
+            "id": 450542
+        }, 
+        {
+            "city": "Barcelona", 
+            "updated": 1352295825000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Barcelona", 
+            "zip": "meetup2", 
+            "created": 1322208683000, 
+            "country": "es", 
+            "lon": 2.1700000762939453, 
+            "lat": 41.400001525878906, 
+            "urlname": "Barcelona-ES", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Barcelona-ES/", 
+            "id": 272282
+        }, 
+        {
+            "city": "Brussels", 
+            "updated": 1346579081000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Belgium", 
+            "zip": "meetup1", 
+            "created": 1326284858000, 
+            "country": "be", 
+            "lon": 4.329999923706055, 
+            "lat": 50.83000183105469, 
+            "urlname": "Belgium", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Belgium/", 
+            "id": 313632
+        }, 
+        {
+            "city": "Berlin", 
+            "updated": 1355690717000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Berlin", 
+            "zip": "meetup1", 
+            "created": 1319461130000, 
+            "country": "de", 
+            "lon": 13.380000114440918, 
+            "lat": 52.52000045776367, 
+            "urlname": "Berlin-DE", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/", 
+            "id": 211142
+        }, 
+        {
+            "city": "Blackpool", 
+            "updated": 1339005535000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Blackpool", 
+            "zip": "FY1 1NE", 
+            "created": 1339005516000, 
+            "country": "gb", 
+            "lon": -3.059999942779541, 
+            "state": "H2", 
+            "lat": 53.81999969482422, 
+            "urlname": "Blackpool-GB", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Blackpool-GB/", 
+            "id": 396902
+        }, 
+        {
+            "city": "Bobo Dioulasso", 
+            "updated": 1331986407000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "BOBO-DIOULASSO", 
+            "zip": "meetup2", 
+            "created": 1331986406000, 
+            "country": "bf", 
+            "lon": -4.289999961853027, 
+            "lat": 11.180000305175781, 
+            "urlname": "BOBO-DIOULASSO", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/BOBO-DIOULASSO/", 
+            "id": 361282
+        }, 
+        {
+            "city": "Bogot\u00e1", 
+            "updated": 1348158327000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Bogot\u00e1", 
+            "zip": "meetup1", 
+            "created": 1348158326000, 
+            "country": "co", 
+            "lon": -74.08999633789062, 
+            "lat": 4.630000114440918, 
+            "urlname": "Bogota-CO", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Bogota-CO/", 
+            "id": 446562
+        }, 
+        {
+            "city": "Bologna", 
+            "updated": 1340978775000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Bologna", 
+            "zip": "meetup7", 
+            "created": 1339701004000, 
+            "country": "it", 
+            "lon": 11.34000015258789, 
+            "state": "BO", 
+            "lat": 44.4900016784668, 
+            "urlname": "Bologna-IT", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Bologna-IT/", 
+            "id": 398412
+        }, 
+        {
+            "city": "Boston", 
+            "updated": 1352931244000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Boston", 
+            "zip": "02108", 
+            "created": 1332452653000, 
+            "country": "us", 
+            "lon": -71.06999969482422, 
+            "state": "MA", 
+            "lat": 42.36000061035156, 
+            "urlname": "Boston-MA", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Boston-MA/", 
+            "id": 363852
+        }, 
+        {
+            "city": "Bras\u00edlia", 
+            "updated": 1343053936000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Bras\u00edlia", 
+            "zip": "meetup6", 
+            "created": 1335904144000, 
+            "country": "br", 
+            "lon": -47.90999984741211, 
+            "lat": -15.779999732971191, 
+            "urlname": "Brasilia-BR", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Brasilia-BR/", 
+            "id": 385892
+        }, 
+        {
+            "city": "Brighton", 
+            "updated": 1348167138000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Brighton", 
+            "zip": "BN1 3AH", 
+            "created": 1348167128000, 
+            "country": "gb", 
+            "lon": -0.15000000596046448, 
+            "state": "P6", 
+            "lat": 50.83000183105469, 
+            "urlname": "Brighton-GB", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Brighton-GB/", 
+            "id": 446642
+        }, 
+        {
+            "city": "Budapest", 
+            "updated": 1335027047000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Budapest", 
+            "zip": "meetup1", 
+            "created": 1328857695000, 
+            "country": "hu", 
+            "lon": 19.079999923706055, 
+            "lat": 47.5099983215332, 
+            "urlname": "Budapest-HU", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Budapest-HU/", 
+            "id": 332352
+        }, 
+        {
+            "city": "Buenos Aires", 
+            "updated": 1346359271000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Buenos Aires", 
+            "zip": "meetup1", 
+            "created": 1331674649000, 
+            "country": "ar", 
+            "lon": -58.369998931884766, 
+            "lat": -34.61000061035156, 
+            "urlname": "Buenos-Aires", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Buenos-Aires/", 
+            "id": 358412
+        }, 
+        {
+            "city": "Cambridge", 
+            "updated": 1357243424000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Cambridge", 
+            "zip": "CB4 1JA", 
+            "created": 1320245422000, 
+            "country": "gb", 
+            "lon": 0.12999999523162842, 
+            "state": "C3", 
+            "lat": 52.209999084472656, 
+            "urlname": "Cambridge", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Cambridge/", 
+            "id": 231572
+        }, 
+        {
+            "city": "Campinas", 
+            "updated": 1324677252000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Campinas", 
+            "zip": "meetup14", 
+            "created": 1324677251000, 
+            "country": "br", 
+            "lon": -47.08000183105469, 
+            "lat": -22.90999984741211, 
+            "urlname": "Campinas-BR", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Campinas-BR/", 
+            "id": 302522
+        }, 
+        {
+            "city": "Canberra", 
+            "updated": 1349693615000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Canberra", 
+            "zip": "meetup8", 
+            "created": 1335838128000, 
+            "country": "au", 
+            "lon": 149.1300048828125, 
+            "lat": -35.310001373291016, 
+            "urlname": "Canberra", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Canberra/", 
+            "id": 385642
+        }, 
+        {
+            "city": "Cape Town", 
+            "updated": 1344417800000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Cape Town", 
+            "zip": "meetup1", 
+            "created": 1321474981000, 
+            "country": "za", 
+            "lon": 18.459999084472656, 
+            "lat": -33.93000030517578, 
+            "urlname": "Cape-Town", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Cape-Town/", 
+            "id": 262912
+        }, 
+        {
+            "city": "Chicago", 
+            "updated": 1332457458000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Chicago", 
+            "zip": "60290", 
+            "created": 1320334489000, 
+            "country": "us", 
+            "lon": -87.62000274658203, 
+            "state": "IL", 
+            "lat": 41.880001068115234, 
+            "urlname": "Chicago-IL", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Chicago-IL/", 
+            "id": 236352
+        }, 
+        {
+            "city": "Columbia", 
+            "updated": 1342491741000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "CoMo Open Knowledge/Data", 
+            "zip": "65201", 
+            "created": 1342491741000, 
+            "country": "us", 
+            "lon": -92.25, 
+            "state": "MO", 
+            "lat": 38.900001525878906, 
+            "urlname": "CoMo-Open-Knowledge-Data", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/CoMo-Open-Knowledge-Data/", 
+            "id": 415102
+        }, 
+        {
+            "city": "Copenhagen", 
+            "updated": 1354186810000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Copenhagen", 
+            "zip": "meetup1", 
+            "created": 1320357342000, 
+            "country": "dk", 
+            "lon": 12.569999694824219, 
+            "lat": 55.68000030517578, 
+            "urlname": "Copenhagen-DK", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Copenhagen-DK/", 
+            "id": 236952
+        }, 
+        {
+            "city": "Curitiba", 
+            "updated": 1339979399000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Curitiba", 
+            "zip": "meetup7", 
+            "created": 1339979399000, 
+            "country": "br", 
+            "lon": -49.290000915527344, 
+            "lat": -25.420000076293945, 
+            "urlname": "Curitiba-BR", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Curitiba-BR/", 
+            "id": 398822
+        }, 
+        {
+            "city": "Edinburgh", 
+            "updated": 1357750960000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Edinburgh", 
+            "zip": "EH10 4JW", 
+            "created": 1319649320000, 
+            "country": "gb", 
+            "lon": -3.2100000381469727, 
+            "state": "V5", 
+            "lat": 55.939998626708984, 
+            "urlname": "Edinburgh-GB", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Edinburgh-GB/", 
+            "id": 219112
+        }, 
+        {
+            "city": "Eindhoven", 
+            "updated": 1332168967000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Eindhoven", 
+            "zip": "meetup5", 
+            "created": 1332168965000, 
+            "country": "nl", 
+            "lon": 5.46999979019165, 
+            "lat": 51.439998626708984, 
+            "urlname": "Eindhoven-NL", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Eindhoven-NL/", 
+            "id": 362242
+        }, 
+        {
+            "city": "Helsinki", 
+            "updated": 1356099061000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Helsinki", 
+            "zip": "meetup1", 
+            "created": 1320244444000, 
+            "country": "fi", 
+            "lon": 24.940000534057617, 
+            "lat": 60.16999816894531, 
+            "urlname": "Helsinki", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Helsinki/", 
+            "id": 231532
+        }, 
+        {
+            "city": "Reykjav\u00edk", 
+            "updated": 1354106462000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Iceland", 
+            "zip": "meetup1", 
+            "created": 1351379968000, 
+            "country": "is", 
+            "lon": -21.920000076293945, 
+            "lat": 64.13999938964844, 
+            "urlname": "Iceland", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Iceland/", 
+            "id": 460292
+        }, 
+        {
+            "city": "Jakarta", 
+            "updated": 1333359210000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Jakarta", 
+            "zip": "meetup1", 
+            "created": 1333359210000, 
+            "country": "id", 
+            "lon": 106.83000183105469, 
+            "lat": -6.179999828338623, 
+            "urlname": "Jakarta", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Jakarta/", 
+            "id": 371022
+        }, 
+        {
+            "city": "Jerusalem", 
+            "updated": 1352986606000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Jerusalem", 
+            "zip": "meetup1", 
+            "created": 1352753189000, 
+            "country": "il", 
+            "lon": 35.220001220703125, 
+            "lat": 31.780000686645508, 
+            "urlname": "Jerusalem-IL", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Jerusalem-IL/", 
+            "id": 464562
+        }, 
+        {
+            "city": "Krak\u00f3w", 
+            "updated": 1349768989000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Krak\u00f3w", 
+            "zip": "meetup3", 
+            "created": 1349768989000, 
+            "country": "pl", 
+            "lon": 19.959999084472656, 
+            "lat": 50.060001373291016, 
+            "urlname": "Krakow-PL", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Krakow-PL/", 
+            "id": 454622
+        }, 
+        {
+            "city": "La Paz", 
+            "updated": 1347998311000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "La Paz", 
+            "zip": "meetup2", 
+            "created": 1347998311000, 
+            "country": "bo", 
+            "lon": -68.1500015258789, 
+            "lat": -16.5, 
+            "urlname": "La-Paz-BO", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/La-Paz-BO/", 
+            "id": 445452
+        }, 
+        {
+            "city": "Lagos", 
+            "updated": 1324392456000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Lagos", 
+            "zip": "meetup1", 
+            "created": 1320774451000, 
+            "country": "ng", 
+            "lon": 3.4700000286102295, 
+            "lat": 6.449999809265137, 
+            "urlname": "Lagos-NG", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Lagos-NG/", 
+            "id": 249942
+        }, 
+        {
+            "city": "Lakhnau", 
+            "updated": 1339571753000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Lakhnau", 
+            "zip": "meetup12", 
+            "created": 1339571732000, 
+            "country": "in", 
+            "lon": 80.91999816894531, 
+            "lat": 26.850000381469727, 
+            "urlname": "Lakhnau-IN", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Lakhnau-IN/", 
+            "id": 398112
+        }, 
+        {
+            "city": "London", 
+            "updated": 1355243398000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "London", 
+            "zip": "EC1A 4DD", 
+            "created": 1319816399000, 
+            "country": "gb", 
+            "lon": -0.10000000149011612, 
+            "state": "17", 
+            "lat": 51.52000045776367, 
+            "urlname": "London-GB", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/London-GB/", 
+            "id": 223772
+        }, 
+        {
+            "city": "Madrid", 
+            "updated": 1351521645000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Madrid", 
+            "zip": "meetup1", 
+            "created": 1340980588000, 
+            "country": "es", 
+            "lon": -3.7100000381469727, 
+            "lat": 40.41999816894531, 
+            "urlname": "Madrid-ES", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Madrid-ES/", 
+            "id": 404812
+        }, 
+        {
+            "city": "Manchester", 
+            "updated": 1337252499000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Manchester", 
+            "zip": "M2 5AS", 
+            "created": 1321389633000, 
+            "country": "gb", 
+            "lon": -2.25, 
+            "state": "18", 
+            "lat": 53.47999954223633, 
+            "urlname": "Manchester-GB", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Manchester-GB/", 
+            "id": 261852
+        }, 
+        {
+            "city": "Manila", 
+            "updated": 1327234075000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Manila", 
+            "zip": "meetup1", 
+            "created": 1327231407000, 
+            "country": "ph", 
+            "lon": 120.97000122070312, 
+            "lat": 14.619999885559082, 
+            "urlname": "Manila-PH", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Manila-PH/", 
+            "id": 320572
+        }, 
+        {
+            "city": "Vijayawada", 
+            "updated": 1343807902000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "MARKAPUR", 
+            "zip": "meetup42", 
+            "created": 1343807902000, 
+            "country": "in", 
+            "lon": 80.62999725341797, 
+            "lat": 16.520000457763672, 
+            "urlname": "MARKAPUR", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/MARKAPUR/", 
+            "id": 421612
+        }, 
+        {
+            "city": "Melbourne", 
+            "updated": 1357185258000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Melbourne", 
+            "zip": "meetup2", 
+            "created": 1355292330000, 
+            "country": "au", 
+            "lon": 144.9600067138672, 
+            "lat": -37.810001373291016, 
+            "urlname": "Melbourne-AU", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Melbourne-AU/", 
+            "id": 471442
+        }, 
+        {
+            "city": "M\u00e9xico City", 
+            "updated": 1348515422000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "M\u00e9xico City", 
+            "zip": "meetup1", 
+            "created": 1348515421000, 
+            "country": "mx", 
+            "lon": -99.13999938964844, 
+            "lat": 19.43000030517578, 
+            "urlname": "Mexico-City-MX", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Mexico-City-MX/", 
+            "id": 448652
+        }, 
+        {
+            "city": "Moscow", 
+            "updated": 1342531413000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Moscow", 
+            "zip": "meetup1", 
+            "created": 1338267729000, 
+            "country": "ru", 
+            "lon": 37.619998931884766, 
+            "lat": 55.75, 
+            "urlname": "Moscow", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Moscow/", 
+            "id": 394362
+        }, 
+        {
+            "city": "Mumbai", 
+            "updated": 1347709870000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Mumbai", 
+            "zip": "meetup1", 
+            "created": 1340976419000, 
+            "country": "in", 
+            "lon": 72.81999969482422, 
+            "lat": 18.959999084472656, 
+            "urlname": "Mumbai", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Mumbai/", 
+            "id": 404762
+        }, 
+        {
+            "city": "M\u00fcnchen", 
+            "updated": 1340222320000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "M\u00fcnchen", 
+            "zip": "meetup3", 
+            "created": 1340222311000, 
+            "country": "de", 
+            "lon": 11.579999923706055, 
+            "lat": 48.13999938964844, 
+            "urlname": "Munchen-DE", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Munchen-DE/", 
+            "id": 399362
+        }, 
+        {
+            "city": "Nairobi", 
+            "updated": 1341644818000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Nairobi", 
+            "zip": "meetup1", 
+            "created": 1341644818000, 
+            "country": "ke", 
+            "lon": 36.81999969482422, 
+            "lat": -1.2899999618530273, 
+            "urlname": "Nairobi-KE", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Nairobi-KE/", 
+            "id": 411502
+        }, 
+        {
+            "city": "Bangalore", 
+            "updated": 1348446408000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Open Data - Bangalore", 
+            "zip": "meetup4", 
+            "created": 1340976105000, 
+            "country": "in", 
+            "lon": 77.55999755859375, 
+            "lat": 12.970000267028809, 
+            "urlname": "Open-Data-Bangalore", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Open-Data-Bangalore/", 
+            "id": 404752
+        }, 
+        {
+            "city": "Ni Dilli", 
+            "updated": 1348939309000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Open Data - New Delhi", 
+            "zip": "meetup120", 
+            "created": 1340977513000, 
+            "country": "in", 
+            "lon": 77.22000122070312, 
+            "lat": 28.600000381469727, 
+            "urlname": "Open-Data-New-Delhi", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Open-Data-New-Delhi/", 
+            "id": 404782
+        }, 
+        {
+            "city": "Prague", 
+            "updated": 1349205817000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Open data Prague", 
+            "zip": "meetup1", 
+            "created": 1322473022000, 
+            "country": "cz", 
+            "lon": 14.430000305175781, 
+            "lat": 50.08000183105469, 
+            "urlname": "Open-data-Prague", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Open-data-Prague/", 
+            "id": 273022
+        }, 
+        {
+            "city": "Vienna", 
+            "updated": 1348651831000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Open Knowledge Forum MeetUp - Austria", 
+            "zip": "meetup1", 
+            "created": 1348651729000, 
+            "country": "at", 
+            "lon": 16.3700008392334, 
+            "lat": 48.220001220703125, 
+            "urlname": "Open-Knowledge-Forum-MeetUp-Austria", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Open-Knowledge-Forum-MeetUp-Austria/", 
+            "id": 450352
+        }, 
+        {
+            "city": "Oxford", 
+            "updated": 1350499415000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Oxford", 
+            "zip": "OX1 3NP", 
+            "created": 1320329048000, 
+            "country": "gb", 
+            "lon": -1.2599999904632568, 
+            "state": "K2", 
+            "lat": 51.7599983215332, 
+            "urlname": "Oxford-GB", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Oxford-GB/", 
+            "id": 236212
+        }, 
+        {
+            "city": "Oxford", 
+            "updated": 1348585338000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Oxford Open Science", 
+            "zip": "OX1 3NP", 
+            "created": 1348439502000, 
+            "country": "gb", 
+            "lon": -1.2599999904632568, 
+            "state": "K2", 
+            "lat": 51.7599983215332, 
+            "urlname": "Oxford-Open-Science", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Oxford-Open-Science/", 
+            "id": 448042
+        }, 
+        {
+            "city": "Paris", 
+            "updated": 1355488336000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Paris", 
+            "zip": "meetup1", 
+            "created": 1351265673000, 
+            "country": "fr", 
+            "lon": 2.3399999141693115, 
+            "lat": 48.86000061035156, 
+            "urlname": "Paris-FR", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Paris-FR/", 
+            "id": 459852
+        }, 
+        {
+            "city": "Krak\u00f3w", 
+            "updated": 1349768651000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Piotr Ko?aczek", 
+            "zip": "meetup3", 
+            "created": 1349763440000, 
+            "country": "pl", 
+            "lon": 19.959999084472656, 
+            "lat": 50.060001373291016, 
+            "urlname": "Piotr-Ko?aczek", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Piotr-Ko?aczek/", 
+            "id": 454592
+        }, 
+        {
+            "city": "Portland", 
+            "updated": 1354209333000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Portland", 
+            "zip": "97201", 
+            "created": 1354209333000, 
+            "country": "us", 
+            "lon": -122.69000244140625, 
+            "state": "OR", 
+            "lat": 45.5, 
+            "urlname": "Portland-OR", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Portland-OR/", 
+            "id": 468692
+        }, 
+        {
+            "city": "Pune", 
+            "updated": 1345688247000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Pune", 
+            "zip": "meetup8", 
+            "created": 1345688247000, 
+            "country": "in", 
+            "lon": 73.83999633789062, 
+            "lat": 18.530000686645508, 
+            "urlname": "Pune-IN", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Pune-IN/", 
+            "id": 431632
+        }, 
+        {
+            "city": "Recife", 
+            "updated": 1356704995000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Recife", 
+            "zip": "meetup9", 
+            "created": 1356704995000, 
+            "country": "br", 
+            "lon": -34.91999816894531, 
+            "lat": -8.079999923706055, 
+            "urlname": "Recife-BR", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Recife-BR/", 
+            "id": 473762
+        }, 
+        {
+            "city": "Rio de Janeiro", 
+            "updated": 1354018668000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Rio de Janeiro", 
+            "zip": "meetup2", 
+            "created": 1335304498000, 
+            "country": "br", 
+            "lon": -43.20000076293945, 
+            "lat": -22.90999984741211, 
+            "urlname": "Rio-de-Janeiro-BR", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Rio-de-Janeiro-BR/", 
+            "id": 384072
+        }, 
+        {
+            "city": "Rivne", 
+            "updated": 1329912029000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Rivne", 
+            "zip": "meetup23", 
+            "created": 1329912029000, 
+            "country": "ua", 
+            "lon": 26.239999771118164, 
+            "lat": 50.630001068115234, 
+            "urlname": "Rivne", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Rivne/", 
+            "id": 340302
+        }, 
+        {
+            "city": "Roma", 
+            "updated": 1351204594000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Roma", 
+            "zip": "meetup1", 
+            "created": 1328693766000, 
+            "country": "it", 
+            "lon": 12.479999542236328, 
+            "state": "RM", 
+            "lat": 41.900001525878906, 
+            "urlname": "Roma", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Roma/", 
+            "id": 330712
+        }, 
+        {
+            "city": "Salerno", 
+            "updated": 1341497589000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Salerno", 
+            "zip": "meetup26", 
+            "created": 1341497588000, 
+            "country": "it", 
+            "lon": 14.779999732971191, 
+            "state": "SA", 
+            "lat": 40.68000030517578, 
+            "urlname": "Salerno", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Salerno/", 
+            "id": 410632
+        }, 
+        {
+            "city": "San Francisco", 
+            "updated": 1354209308000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "San Francisco", 
+            "zip": "94101", 
+            "created": 1348083809000, 
+            "country": "us", 
+            "lon": -122.41999816894531, 
+            "state": "CA", 
+            "lat": 37.779998779296875, 
+            "urlname": "San-Francisco-CA", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/San-Francisco-CA/", 
+            "id": 446182
+        }, 
+        {
+            "city": "Santiago", 
+            "updated": 1331693072000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Santiago", 
+            "zip": "meetup1", 
+            "created": 1331693072000, 
+            "country": "cl", 
+            "lon": -70.63999938964844, 
+            "lat": -33.459999084472656, 
+            "urlname": "Santiago-CL", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Santiago-CL/", 
+            "id": 358612
+        }, 
+        {
+            "city": "Santos", 
+            "updated": 1347564004000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Santos", 
+            "zip": "meetup43", 
+            "created": 1345843851000, 
+            "country": "br", 
+            "lon": -46.33000183105469, 
+            "lat": -23.950000762939453, 
+            "urlname": "Santos-BR", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Santos-BR/", 
+            "id": 432962
+        }, 
+        {
+            "city": "S\u00e3o Paulo", 
+            "updated": 1335906009000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Sao Paulo", 
+            "zip": "meetup1", 
+            "created": 1320244297000, 
+            "country": "br", 
+            "lon": -46.630001068115234, 
+            "lat": -23.530000686645508, 
+            "urlname": "Sao-Paulo", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Sao-Paulo/", 
+            "id": 231522
+        }, 
+        {
+            "city": "S\u00e3o Paulo", 
+            "updated": 1353586810000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "S\u00e3o Paulo", 
+            "zip": "meetup1", 
+            "created": 1334262736000, 
+            "country": "br", 
+            "lon": -46.630001068115234, 
+            "lat": -23.530000686645508, 
+            "urlname": "Sao-Paulo-BR", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Sao-Paulo-BR/", 
+            "id": 379012
+        }, 
+        {
+            "city": "Seattle", 
+            "updated": 1354208377000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Seattle", 
+            "zip": "98101", 
+            "created": 1348863452000, 
+            "country": "us", 
+            "lon": -122.33000183105469, 
+            "state": "WA", 
+            "lat": 47.61000061035156, 
+            "urlname": "Seattle-WA", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Seattle-WA/", 
+            "id": 451672
+        }, 
+        {
+            "city": "Sofija", 
+            "updated": 1334134122000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Sofija", 
+            "zip": "meetup1", 
+            "created": 1334093732000, 
+            "country": "bg", 
+            "lon": 23.309999465942383, 
+            "lat": 42.689998626708984, 
+            "urlname": "Sofija-BG", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Sofija-BG/", 
+            "id": 377172
+        }, 
+        {
+            "city": "Taipei", 
+            "updated": 1352010857000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Taipei", 
+            "zip": "meetup1", 
+            "created": 1320246015000, 
+            "country": "tw", 
+            "lon": 121.44999694824219, 
+            "lat": 25.020000457763672, 
+            "urlname": "Taipei-TW", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Taipei-TW/", 
+            "id": 231592
+        }, 
+        {
+            "city": "Tampere", 
+            "updated": 1326719996000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Tampere", 
+            "zip": "meetup3", 
+            "created": 1326719996000, 
+            "country": "fi", 
+            "lon": 23.760000228881836, 
+            "lat": 61.52000045776367, 
+            "urlname": "Tampere-FI", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Tampere-FI/", 
+            "id": 315812
+        }, 
+        {
+            "city": "Thessalon\u00edki", 
+            "updated": 1357212585000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Thessalon\u00edki", 
+            "zip": "meetup2", 
+            "created": 1328602291000, 
+            "country": "gr", 
+            "lon": 22.940000534057617, 
+            "lat": 40.63999938964844, 
+            "urlname": "Thessaloniki-GR", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Thessaloniki-GR/", 
+            "id": 330162
+        }, 
+        {
+            "city": "Tokyo", 
+            "updated": 1340748939000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Tokyo", 
+            "zip": "meetup1", 
+            "created": 1339736076000, 
+            "country": "jp", 
+            "lon": 139.77000427246094, 
+            "lat": 35.66999816894531, 
+            "urlname": "Tokyo-JP", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Tokyo-JP/", 
+            "id": 398492
+        }, 
+        {
+            "city": "Tunis", 
+            "updated": 1329120279000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Tunis", 
+            "zip": "meetup1", 
+            "created": 1329081086000, 
+            "country": "tn", 
+            "lon": 10.220000267028809, 
+            "lat": 36.84000015258789, 
+            "urlname": "Tunis", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Tunis/", 
+            "id": 333552
+        }, 
+        {
+            "city": "Ulm", 
+            "updated": 1332151354000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Ulm", 
+            "zip": "meetup64", 
+            "created": 1323817964000, 
+            "country": "de", 
+            "lon": 9.970000267028809, 
+            "lat": 48.400001525878906, 
+            "urlname": "Ulm-DE", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Ulm-DE/", 
+            "id": 290802
+        }, 
+        {
+            "city": "Usk", 
+            "updated": 1345120843000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Usk", 
+            "zip": "NP15 1AA", 
+            "created": 1345120843000, 
+            "country": "gb", 
+            "lon": -2.9000000953674316, 
+            "state": "Y4", 
+            "lat": 51.70000076293945, 
+            "urlname": "Usk-GB", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Usk-GB/", 
+            "id": 429302
+        }, 
+        {
+            "city": "Utrecht", 
+            "updated": 1357496667000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Utrecht", 
+            "zip": "meetup4", 
+            "created": 1328261460000, 
+            "country": "nl", 
+            "lon": 5.110000133514404, 
+            "lat": 52.099998474121094, 
+            "urlname": "Utrecht-NL", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Utrecht-NL/", 
+            "id": 328372
+        }, 
+        {
+            "city": "Washington", 
+            "updated": 1353503596000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Washington D.C.", 
+            "zip": "20001", 
+            "created": 1343321457000, 
+            "country": "us", 
+            "lon": -77.0199966430664, 
+            "state": "DC", 
+            "lat": 38.90999984741211, 
+            "urlname": "Washington-D-C", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Washington-D-C/", 
+            "id": 420232
+        }, 
+        {
+            "city": "Wellington", 
+            "updated": 1333099438000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Wellington", 
+            "zip": "meetup5", 
+            "created": 1333099438000, 
+            "country": "nz", 
+            "lon": 174.77999877929688, 
+            "lat": -41.279998779296875, 
+            "urlname": "Wellington-NZ", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Wellington-NZ/", 
+            "id": 368252
+        }, 
+        {
+            "city": "Wolverhampton", 
+            "updated": 1330426757000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Wolverhampton", 
+            "zip": "WV1 4TF", 
+            "created": 1330426757000, 
+            "country": "gb", 
+            "lon": -2.1500000953674316, 
+            "state": "43", 
+            "lat": 52.59000015258789, 
+            "urlname": "Wolverhampton-GB", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Wolverhampton-GB/", 
+            "id": 347812
+        }, 
+        {
+            "city": "York", 
+            "updated": 1327666619000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "York", 
+            "zip": "YO26 4QN", 
+            "created": 1327666619000, 
+            "country": "gb", 
+            "lon": -1.1100000143051147, 
+            "state": "J7", 
+            "lat": 53.959999084472656, 
+            "urlname": "York-GB", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/York-GB/", 
+            "id": 325332
+        }, 
+        {
+            "city": "Z\u00fcrich", 
+            "updated": 1345460143000, 
+            "container": {
+                "urlname": "OpenKnowledgeFoundation", 
+                "id": 14142, 
+                "name": "Open Knowledge Foundation"
+            }, 
+            "name": "Z\u00fcrich", 
+            "zip": "meetup1", 
+            "created": 1331738040000, 
+            "country": "ch", 
+            "lon": 8.539999961853027, 
+            "lat": 47.380001068115234, 
+            "urlname": "Zurich-CH", 
+            "meetup_url": "http://www.meetup.com/OpenKnowledgeFoundation/Zurich-CH/", 
+            "id": 358812
+        }
+    ]
 }
