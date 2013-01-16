@@ -12,8 +12,11 @@ def get_json(method, parameters):
     assert method[0] is '/', 'Endpoint must be prefixed with "/" eg. "/ew/communities"'
     url_parameters = urllib.urlencode(parameters)
     url = 'https://api.meetup.com%s?key=%s&%s' % (method,api_key,url_parameters)
+    # faff with encoding - Meetup moving to utf-8 but not there yet
+    # see http://www.meetup.com/meetup_api/#encodings
     r = urllib.urlopen(url)
-    return json.loads(r.read())
+    text = unicode(r.read(), 'ISO-8859-1')
+    return json.loads(text)
 
 def list_communities():
     return get_json( '/ew/communities', {'container_id':container_id} )
