@@ -1,6 +1,5 @@
 import urllib
 import os
-import requests
 import json
 import csv, cStringIO, codecs
 
@@ -13,8 +12,8 @@ def get_json(method, parameters):
     assert method[0] is '/', 'Endpoint must be prefixed with "/" eg. "/ew/communities"'
     url_parameters = urllib.urlencode(parameters)
     url = 'https://api.meetup.com%s?key=%s&%s' % (method,api_key,url_parameters)
-    r = requests.get(url)
-    return json.loads(r.text)
+    r = urllib.urlopen(url)
+    return json.loads(r.read())
 
 def list_communities():
     return get_json( '/ew/communities', {'container_id':container_id} )
@@ -63,6 +62,18 @@ def dump_event_csv(data):
             w.writerow( to_csv_row(x) )
         f.close()
 
+def dump_community_csv(data):
+    header = [ 'name', 'country', 'meetup_url', 'created', 'lon', 'lat', 'zip' ]
+    with open('community.csv','w') as f:
+        w = UnicodeWriter(f)
+        w.writerow(header)
+        for x in data['results']:
+            print 'writing id=%d, name=%s' % (x['id'], x['name'])
+            row = [ x[y] for y in header ]
+            w.writerow( row )
+        f.close()
+
+
 class UnicodeWriter:
     """
     A CSV writer which will write rows to CSV file "f",
@@ -99,7 +110,5 @@ class UnicodeWriter:
 if __name__=='__main__':
     # print json.dumps(list_events(), indent=4)
     dump_event_csv(list_events())
-    with open('communities.json', 'w') as out:
-        json.dump(list_communities(), out, indent=4)
-
+    dump_community_csv(list_communities())
 
