@@ -5,6 +5,7 @@ id,status,community_urlname,city,zip,country,lat,lon,created,updated,helpers,mee
 800302,pending,Open-Data-Bangalore,Bangalore,meetup4,in,12.97,77.559998,1348446292000,1348446408000,"[{u'name': u'Iyyanki V Muralikrishna', u'member_id': 63153802}]",http://www.meetup.com/OpenKnowledgeFoundation/Open-Data-Bangalore/800302/
 769582,pending,Zurich-CH,Zürich,meetup1,ch,47.380001,8.54,1345456106000,1345456106000,[],http://www.meetup.com/OpenKnowledgeFoundation/Zurich-CH/769582/
 812592,pending,Piotr-Ko?aczek,Kraków,meetup3,pl,50.060001,19.959999,1349763465000,1349763465000,[],http://www.meetup.com/OpenKnowledgeFoundation/Piotr-Ko?aczek/812592/
+877112,pending,Montreal-CA,Montréal,H1A 0A1,ca,45.650002,-73.5,1360080187000,1360080187000,[],http://www.meetup.com/OpenKnowledgeFoundation/Montreal-CA/877112/
 804422,pending,Bangkok-TH,Bangkok,meetup1,th,13.73,100.5,1348678836000,1348678836000,[],http://www.meetup.com/OpenKnowledgeFoundation/Bangkok-TH/804422/
 849482,pending,Recife-BR,Recife,meetup9,br,-8.08,-34.919998,1356704995000,1356704995000,[],http://www.meetup.com/OpenKnowledgeFoundation/Recife-BR/849482/
 797772,pending,Brighton-GB,Brighton,BN1 3AH,gb,50.830002,-0.15,1348167128000,1348167128000,[],http://www.meetup.com/OpenKnowledgeFoundation/Brighton-GB/797772/
@@ -16,8 +17,12 @@ id,status,community_urlname,city,zip,country,lat,lon,created,updated,helpers,mee
 605542,pending,Almere,Almere- Stad,1315,nl,52.369755,5.219451,1328903555000,1328903589000,"[{u'name': u'Bert Betgen', u'member_id': 38095232}]",http://www.meetup.com/OpenKnowledgeFoundation/Almere/605542/
 720232,pending,Munchen-DE,Munich,80339,de,48.132137,11.540881,1340222311000,1340222320000,"[{u'name': u'Marcus Dapp', u'member_id': 51976832}]",http://www.meetup.com/OpenKnowledgeFoundation/Munchen-DE/720232/
 817272,pending,San-Francisco-CA,San Francisco,94101,us,37.779999,-122.419998,1350579428000,1350579428000,[],http://www.meetup.com/OpenKnowledgeFoundation/San-Francisco-CA/817272/
+878722,pending,Jakarta,Jakarta,meetup1,id,-6.18,106.830002,1360299219000,1360299219000,[],http://www.meetup.com/OpenKnowledgeFoundation/Jakarta/878722/
+878732,pending,Jakarta,Jakarta,meetup1,id,-6.18,106.830002,1360300076000,1360300076000,[],http://www.meetup.com/OpenKnowledgeFoundation/Jakarta/878732/
 725392,pending,Tokyo-JP,Tokyo,meetup1,jp,35.669998,139.770004,1340748939000,1340748939000,[],http://www.meetup.com/OpenKnowledgeFoundation/Tokyo-JP/725392/
-796832,pending,Amsterdam-NL,Amsterdam,meetup1,nl,52.369999,4.89,1348070947000,1348070947000,[],http://www.meetup.com/OpenKnowledgeFoundation/Amsterdam-NL/796832/
+876432,pending,Madrid-ES,Madrid,meetup1,es,40.419998,-3.71,1360001953000,1360001953000,[],http://www.meetup.com/OpenKnowledgeFoundation/Madrid-ES/876432/
+879772,pending,London-GB,London,EC1A 4DD,gb,51.52,-0.1,1360511715000,1360511719000,[],http://www.meetup.com/OpenKnowledgeFoundation/London-GB/879772/
+796832,pending,Amsterdam-NL,Amsterdam,,nl,52.370216,4.895168,1348070947000,1359123520000,"[{u'name': u'siem', u'member_id': 63722672}]",http://www.meetup.com/OpenKnowledgeFoundation/Amsterdam-NL/796832/
 650402,pending,Chicago-IL,Chicago,60618,us,41.942459,-87.702942,1332457443000,1332457473000,"[{u'name': u'TensorFlux', u'member_id': 9228732}]",http://www.meetup.com/OpenKnowledgeFoundation/Chicago-IL/650402/
 767142,pending,Usk-GB,Usk,NP15 1AA,gb,51.700001,-2.9,1345120843000,1345120843000,[],http://www.meetup.com/OpenKnowledgeFoundation/Usk-GB/767142/
 806582,pending,Open-Data-New-Delhi,Ni Dilli,meetup120,in,28.6,77.220001,1348939309000,1348939309000,[],http://www.meetup.com/OpenKnowledgeFoundation/Open-Data-New-Delhi/806582/
@@ -126,6 +131,17 @@ id,status,community_urlname,city,zip,country,lat,lon,created,updated,helpers,mee
 846942,past,Helsinki,Helsinki,meetup1,fi,60.169998,24.940001,1355778738000,1356102120000,"[{u'name': u'Antti Poikola', u'member_id': 9039541}]",http://www.meetup.com/OpenKnowledgeFoundation/Helsinki/846942/
 606342,past,Thessaloniki-GR,Thessaloníki,meetup2,gr,40.639999,22.940001,1328961236000,1357225335000,"[{u'name': u'Charalampos Bratsas', u'member_id': 14700691}]",http://www.meetup.com/OpenKnowledgeFoundation/Thessaloniki-GR/606342/
 848602,past,Helsinki,HKI,00120,fi,60.163883,24.941256,1356295692000,1357319012000,"[{u'name': u'Antti Poikola', u'member_id': 9039541}]",http://www.meetup.com/OpenKnowledgeFoundation/Helsinki/848602/
-847522,upcoming,Edinburgh-GB,Edinburgh,EH1 1EW,gb,55.948547,-3.191873,1355937033000,1356086478000,"[{u'name': u'Ewan Klein', u'member_id': 40194042}]",http://www.meetup.com/OpenKnowledgeFoundation/Edinburgh-GB/847522/
-844982,upcoming,Utrecht-NL,Utrecht,meetup4,nl,52.099998,5.11,1355323707000,1357729799000,"[{u'name': u'Joris Pekel', u'member_id': 14294509}]",http://www.meetup.com/OpenKnowledgeFoundation/Utrecht-NL/844982/
+847522,past,Edinburgh-GB,Edinburgh,EH1 1EW,gb,55.948547,-3.191873,1355937033000,1359064927000,"[{u'name': u'Ewan Klein', u'member_id': 40194042}]",http://www.meetup.com/OpenKnowledgeFoundation/Edinburgh-GB/847522/
+867172,past,Berlin-DE,Berlin,meetup1,de,52.52,13.38,1358955728000,1359169413000,"[{u'name': u'Julia Kloiber', u'member_id': 76368692}]",http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/867172/
+866912,past,Iceland,Reykjavik,101,is,64.146805,-21.922665,1358891782000,1359669624000,"[{u'name': u'Finnur Magnusson', u'member_id': 12436808}]",http://www.meetup.com/OpenKnowledgeFoundation/Iceland/866912/
+844982,past,Utrecht-NL,Utrecht,meetup4,nl,52.09354,5.118881,1355323707000,1360103489000,"[{u'name': u'Joris Pekel', u'member_id': 14294509}]",http://www.meetup.com/OpenKnowledgeFoundation/Utrecht-NL/844982/
+867562,past,Helsinki,Tuusula,04300,fi,60.402378,25.025518,1359030695000,1360332286000,"[{u'name': u'Antti Poikola', u'member_id': 9039541}]",http://www.meetup.com/OpenKnowledgeFoundation/Helsinki/867562/
+864292,upcoming,London-GB,London,EC2A 4JE,gb,51.522163,-0.083438,1358422546000,1358442753000,"[{u'name': u'Velichka Dimitrova', u'member_id': 34270782}]",http://www.meetup.com/OpenKnowledgeFoundation/London-GB/864292/
+867742,upcoming,Open-Knowledge-Forum-MeetUp-Austria,Vienna,1110,at,48.185329,16.422232,1359050853000,1359050941000,"[{u'name': u'Thomas Thurner', u'member_id': 9771602}]",http://www.meetup.com/OpenKnowledgeFoundation/Open-Knowledge-Forum-MeetUp-Austria/867742/
+877982,upcoming,Frankfurt-am-Main,Frankfurt,meetup5,de,50.11042,8.680237,1360182486000,1360645922000,"[{u'name': u'Martin Kliehm', u'member_id': 14296755}]",http://www.meetup.com/OpenKnowledgeFoundation/Frankfurt-am-Main/877982/
+878412,upcoming,Edinburgh-GB,Edinburgh,EH8 9AB,gb,55.944519,-3.187462,1360229686000,1360760203000,"[{u'name': u'Ewan Klein', u'member_id': 40194042}]",http://www.meetup.com/OpenKnowledgeFoundation/Edinburgh-GB/878412/
+866282,upcoming,Berlin-DE,Berlin,10963,de,52.505192,13.38103,1358782709000,1360853326000,"[{u'name': u'Eva Panek', u'member_id': 70823962}]",http://www.meetup.com/OpenKnowledgeFoundation/Berlin-DE/866282/
+881662,upcoming,Paris-FR,Paris,75013,fr,48.826267,2.346408,1360854587000,1360855942000,"[{u'name': u'Pierre', u'member_id': 67557382}]",http://www.meetup.com/OpenKnowledgeFoundation/Paris-FR/881662/
+872682,upcoming,NYC,New York,10016,us,40.748692,-73.984047,1359536965000,1359771178000,"[{u'name': u'Suzanne Tee', u'member_id': 48104412}]",http://www.meetup.com/OpenKnowledgeFoundation/NYC/872682/
 844582,upcoming,Melbourne-AU,Melbourne,meetup2,au,-37.810001,144.960007,1355292330000,1357185258000,"[{u'name': u'David F. Flanders', u'member_id': 8443279}, {u'name': u'David F. Flanders', u'member_id': 45236012}]",http://www.meetup.com/OpenKnowledgeFoundation/Melbourne-AU/844582/
+871892,upcoming,Edinburgh-GB,Edinburgh,EH10 5DT,gb,55.933159,-3.212774,1359478932000,1360770039000,"[{u'name': u'Ewan Klein', u'member_id': 40194042}]",http://www.meetup.com/OpenKnowledgeFoundation/Edinburgh-GB/871892/
